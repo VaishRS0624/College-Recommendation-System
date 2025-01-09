@@ -13,11 +13,16 @@ The College Recommendation System is a web-based application built with Flask as
 - College Predictor: Predict potential colleges based on user-provided ranks and scores.
 
 ## Project Structure
-### flaskapp.py: Main Flask application for user interactions.
-### flaskadmin.py: Flask application for administrative tasks.
-### templates/: Contains HTML templates for the user interface.
-### static/: Stores static assets like CSS and JavaScript files.
-### database.sql: SQL script to create the database schema.
+- ### flaskapp.py: 
+Main Flask application for user interactions.
+- ### flaskadmin.py: 
+Flask application for administrative tasks.
+- ### templates/: 
+Contains HTML templates for the user interface.
+- ### static/: 
+Stores static assets like CSS and JavaScript files.
+- ### database.sql: 
+SQL script to create the database schema.
 
 ## Database Configuration
 1. Ensure MySQL is installed and running.
