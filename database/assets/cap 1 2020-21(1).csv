@@ -1,0 +1,1455 @@
+Sr.No.,Merit (Score),Institute Code,Choice Code,Course Name,"Exam (JEE/MHT-
+CET)",Type,Seat Type
+1.0,56 (99.1414458),3215,321524510,Computer Engineering,JEE,AI to AI,AI
+2.0,116 (98.6881511),3215,321524610,Information Technology,JEE,AI to AI,AI
+3.0,178 (98.4038715),6271,627124510,Computer Engineering,JEE,AI to AI,AI
+4.0,180 (98.3913990),3199,319924510,Computer Engineering,JEE,AI to AI,AI
+5.0,202 (98.3014921),6271,627124520,Computer Engineering,JEE,AI to AI,AI
+6.0,419 (97.5332917),6271,627124610,Information Technology,JEE,AI to AI,AI
+7.0,425 (97.5064459),3199,319924610,Information Technology,JEE,AI to AI,AI
+8.0,597 (96.9832324),6273,627324510,Computer Engineering,JEE,AI to AI,AI
+9.0,637 (96.8544906),3036,303650710,Chemical Engineering,JEE,AI to AI,AI
+10.0,689 (96.6749745),6273,627324520,Computer Engineering,JEE,AI to AI,AI
+11.0,707 (96.6446824),3199,319991210,"Computer Science and
+Engineering(Data Science)",JEE,AI to AI,AI
+12.0,718 (96.6115123),3215,321537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+13.0,783 (96.4632201),4115,411524210,Computer Science and Engineering,JEE,AI to AI,AI
+14.0,788 (96.4528706),6273,627324610,Information Technology,JEE,AI to AI,AI
+15.0,884 (96.2254497),3209,320924510,Computer Engineering,JEE,AI to AI,AI
+16.0,1073 (95.8345556),3182,318224510,Computer Engineering,JEE,AI to AI,AI
+17.0,1095 (95.7811606),3036,303653410,Food Engineering and Technology,JEE,AI to AI,AI
+18.0,1109 (95.7734521),4115,411524220,Computer Science and Engineering,JEE,AI to AI,AI
+19.0,1138 (95.6884030),3209,320924610,Information Technology,JEE,AI to AI,AI
+20.0,1184 (95.6318716),3215,321537610,Electronics Engineering,JEE,AI to AI,AI
+21.0,1188 (95.6086439),6175,617524510,Computer Engineering,JEE,AI to AI,AI
+22.0,1309 (95.3917305),6271,627137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+23.0,1321 (95.3541222),6175,617524520,Computer Engineering,JEE,AI to AI,AI
+24.0,1354 (95.3024769),6271,627137220,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+25.0,1386 (95.2376232),3036,303651910,Polymer Engineering and Technology,JEE,AI to AI,AI
+26.0,1391 (95.2178570),3185,318524510,Computer Engineering,JEE,AI to AI,AI
+27.0,1446 (95.1182239),3182,318224610,Information Technology,JEE,AI to AI,AI
+28.0,1513 (94.9982973),4115,411524610,Information Technology,JEE,AI to AI,AI
+29.0,1519 (94.9947813),3185,318524520,Computer Engineering,JEE,AI to AI,AI
+30.0,1533 (94.9879747),3199,319937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+,,,,Computer Science and,,,
+31.0,1601 (94.8591079),4115,411591110,Engineering(Artificial Intelligence and,JEE,AI to AI,AI
+,,,,Machine Learning),,,
+32.0,1603 (94.8591079),3036,303651310,"Pharmaceuticals Chemistry and
+Technology",JEE,AI to AI,AI
+33.0,1634 (94.7977247),6289,628924510,Computer Engineering,JEE,AI to AI,AI
+34.0,1679 (94.7251739),3199,319937610,Electronics Engineering,JEE,AI to AI,AI
+35.0,1746 (94.6215562),4115,411591010,"Computer Science and
+Engineering(Cyber Security)",JEE,AI to AI,AI
+36.0,1756 (94.5937937),6289,628924520,Computer Engineering,JEE,AI to AI,AI
+37.0,1808 (94.5026944),3182,318299510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+38.0,1812 (94.4920082),6276,627624510F,Computer Engineering,JEE,AI to AI,AI
+39.0,1861 (94.4159187),6175,617524610,Information Technology,JEE,AI to AI,AI
+40.0,1884 (94.4114276),4115,411591210,"Computer Science and
+Engineering(Data Science)",JEE,AI to AI,AI
+41.0,1891 (94.3815612),3176,317624510,Computer Engineering,JEE,AI to AI,AI
+42.0,1909 (94.3390626),6274,627424510,Computer Engineering,JEE,AI to AI,AI
+43.0,1966 (94.2790029),3036,303651210,"Oil,Oleochemicals and Surfactants
+Technology",JEE,AI to AI,AI
+44.0,1988 (94.2251676),6273,627399510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+45.0,2133 (93.9600114),3184,318424510,Computer Engineering,JEE,AI to AI,AI
+46.0,2134 (93.9600114),3185,318524610,Information Technology,JEE,AI to AI,AI
+47.0,2199 (93.9116921),3209,320999510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+48.0,2246 (93.7994851),3184,318499510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+49.0,2250 (93.7994851),3214,321424510,Computer Engineering,JEE,AI to AI,AI
+50.0,2255 (93.7932185),6754,675424510,Computer Engineering,JEE,AI to AI,AI
+51.0,2292 (93.7385915),3185,318599510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+52.0,2306 (93.7037238),6289,628924610,Information Technology,JEE,AI to AI,AI
+53.0,2343 (93.6335200),6276,627624520F,Computer Engineering,JEE,AI to AI,AI
+54.0,2437 (93.4905849),3197,319724510,Computer Engineering,JEE,AI to AI,AI
+55.0,2457 (93.4717874),3199,319961210,Mechanical Engineering,JEE,AI to AI,AI
+56.0,2555 (93.2964586),6146,614624510,Computer Engineering,JEE,AI to AI,AI
+57.0,2580 (93.2629560),6273,627337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+58.0,2622 (93.1873354),3183,318361210,Mechanical Engineering,JEE,AI to AI,AI
+59.0,2695 (93.0885184),6273,627337220,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+60.0,2755 (92.9652821),4115,411537010,"Electronics and Communication
+Engineering",JEE,AI to AI,AI
+61.0,2772 (92.9637276),3182,318237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+62.0,2782 (92.9511398),6278,627824510,Computer Engineering,JEE,AI to AI,AI
+63.0,2860 (92.7866138),3176,317624610,Information Technology,JEE,AI to AI,AI
+64.0,2861 (92.7827663),3139,313924510,Computer Engineering,JEE,AI to AI,AI
+65.0,2873 (92.7827663),6276,627624610F,Information Technology,JEE,AI to AI,AI
+66.0,2931 (92.6903003),6274,627424610,Information Technology,JEE,AI to AI,AI
+67.0,2947 (92.6768827),3036,303651110,Dyestuff Technology,JEE,AI to AI,AI
+68.0,2948 (92.6768827),3184,318461210,Mechanical Engineering,JEE,AI to AI,AI
+69.0,2982 (92.6070387),3208,320824510,Computer Engineering,JEE,AI to AI,AI
+70.0,2989 (92.6070387),4115,411537020,"Electronics and Communication
+Engineering",JEE,AI to AI,AI
+71.0,3031 (92.5089130),6272,627224510,Computer Engineering,JEE,AI to AI,AI
+72.0,3070 (92.4459821),3176,317692110,"Artificial Intelligence and Machine
+Learning",JEE,AI to AI,AI
+73.0,3072 (92.4459821),4115,411546110,Bio Medical Engineering,JEE,AI to AI,AI
+74.0,3114 (92.4364162),4115,411561210,Mechanical Engineering,JEE,AI to AI,AI
+75.0,3178 (92.3129313),3199,319950710,Chemical Engineering,JEE,AI to AI,AI
+76.0,3190 (92.3048250),3036,303672910,Surface Coating Technology,JEE,AI to AI,AI
+77.0,3205 (92.2920648),6146,614624610,Information Technology,JEE,AI to AI,AI
+78.0,3298 (92.1979161),6289,628999510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+79.0,3514 (91.8403514),6796,679624510,Computer Engineering,JEE,AI to AI,AI
+80.0,3548 (91.8332985),3036,303651410,"Fibres and Textile Processing
+Technology",JEE,AI to AI,AI
+81.0,3551 (91.8332985),6141,614124510,Computer Engineering,JEE,AI to AI,AI
+82.0,3567 (91.7540434),6822,682224510,Computer Engineering,JEE,AI to AI,AI
+83.0,3650 (91.6581100),3204,320424510,Computer Engineering,JEE,AI to AI,AI
+84.0,3661 (91.6438702),3197,319724610,Information Technology,JEE,AI to AI,AI
+85.0,3678 (91.6238781),4115,411537610,Electronics Engineering,JEE,AI to AI,AI
+86.0,3754 (91.4701597),6754,675424610,Information Technology,JEE,AI to AI,AI
+87.0,3775 (91.4431022),3209,320937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+88.0,3784 (91.4431022),4115,411537620,Electronics Engineering,JEE,AI to AI,AI
+89.0,3796 (91.4160180),3176,317699510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+,,,,Computer Science and,,,
+90.0,3853 (91.3844507),3183,318391110,Engineering(Artificial Intelligence and,JEE,AI to AI,AI
+,,,,Machine Learning),,,
+91.0,3883 (91.3149720),6175,617537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+92.0,3895 (91.2475185),3184,318490010,Electronics and Computer Science,JEE,AI to AI,AI
+93.0,3925 (91.2222675),3183,318324510,Computer Engineering,JEE,AI to AI,AI
+94.0,3926 (91.2222675),3197,319737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+95.0,3956 (91.2125751),4115,411529310,Electrical Engineering,JEE,AI to AI,AI
+96.0,4009 (91.1044385),3176,317625310,Internet of Things (IoT),JEE,AI to AI,AI
+97.0,4015 (91.1044385),3182,318250710,Chemical Engineering,JEE,AI to AI,AI
+98.0,4029 (91.0883933),6273,627361210,Mechanical Engineering,JEE,AI to AI,AI
+99.0,4048 (91.0855668),6278,627824520,Computer Engineering,JEE,AI to AI,AI
+100.0,4102 (90.9951692),6177,617724510,Computer Engineering,JEE,AI to AI,AI
+101.0,4172 (90.8286547),6175,617537220,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+102.0,4381 (90.4932262),4167,416724210,Computer Science and Engineering,JEE,AI to AI,AI
+103.0,4432 (90.4590322),6273,627361220,Mechanical Engineering,JEE,AI to AI,AI
+104.0,4448 (90.3786173),6139,613924510,Computer Engineering,JEE,AI to AI,AI
+105.0,4458 (90.3765335),3189,318924510,Computer Engineering,JEE,AI to AI,AI
+106.0,4472 (90.3765335),3208,320824610,Information Technology,JEE,AI to AI,AI
+107.0,4480 (90.3715882),6272,627224610,Information Technology,JEE,AI to AI,AI
+108.0,4498 (90.3672331),3214,321424610,Information Technology,JEE,AI to AI,AI
+109.0,4559 (90.2370544),3135,313524510,Computer Engineering,JEE,AI to AI,AI
+110.0,4685 (90.0166412),6177,617724520,Computer Engineering,JEE,AI to AI,AI
+111.0,4719 (89.9667109),3139,313924610,Information Technology,JEE,AI to AI,AI
+112.0,4740 (89.9667109),3201,320124510,Computer Engineering,JEE,AI to AI,AI
+113.0,4764 (89.9572030),3185,318537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+114.0,4779 (89.9572030),3214,321437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+115.0,4822 (89.8782776),6282,628224510,Computer Engineering,JEE,AI to AI,AI
+116.0,4928 (89.7056982),6276,627637210F,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+117.0,4930 (89.7056982),3211,321124510,Computer Engineering,JEE,AI to AI,AI
+118.0,5002 (89.6436928),5121,512124510,Computer Engineering,JEE,AI to AI,AI
+119.0,5067 (89.4732118),4115,411519110,Civil Engineering,JEE,AI to AI,AI
+120.0,5100 (89.4715080),6289,628937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+121.0,5261 (89.2094379),3204,320461210,Mechanical Engineering,JEE,AI to AI,AI
+122.0,5270 (89.2091523),6802,680224510,Computer Engineering,JEE,AI to AI,AI
+123.0,5306 (89.1794150),4115,411519120,Civil Engineering,JEE,AI to AI,AI
+124.0,5308 (89.1794150),6207,620724510,Computer Engineering,JEE,AI to AI,AI
+125.0,5340 (89.1463772),3176,317637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+126.0,5369 (89.1102368),3211,321124610,Information Technology,JEE,AI to AI,AI
+127.0,5409 (88.9592184),4116,411624210,Computer Science and Engineering,JEE,AI to AI,AI
+128.0,5475 (88.9034061),3207,320724510,Computer Engineering,JEE,AI to AI,AI
+129.0,5542 (88.8568844),6282,628224520,Computer Engineering,JEE,AI to AI,AI
+130.0,5614 (88.6609486),6265,626524210,Computer Science and Engineering,JEE,AI to AI,AI
+131.0,5705 (88.5707183),6207,620724520,Computer Engineering,JEE,AI to AI,AI
+132.0,5745 (88.5200525),6139,613924520,Computer Engineering,JEE,AI to AI,AI
+133.0,5877 (88.2592361),6175,617519110,Civil Engineering,JEE,AI to AI,AI
+134.0,5917 (88.2292847),3135,313524610,Information Technology,JEE,AI to AI,AI
+135.0,5946 (88.2289171),3204,320424610,Information Technology,JEE,AI to AI,AI
+136.0,6030 (88.0909116),6175,617561210,Mechanical Engineering,JEE,AI to AI,AI
+137.0,6033 (88.0909116),6177,617724610,Information Technology,JEE,AI to AI,AI
+138.0,6048 (88.0378205),3423,342324510,Computer Engineering,JEE,AI to AI,AI
+139.0,6128 (87.9271554),5121,512124610,Information Technology,JEE,AI to AI,AI
+140.0,6133 (87.8974734),6276,627637220F,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+141.0,6142 (87.8974734),4115,411558910,Industrial Engineering,JEE,AI to AI,AI
+142.0,6181 (87.8560088),6141,614124610,Information Technology,JEE,AI to AI,AI
+143.0,6228 (87.7810287),3176,317661210,Mechanical Engineering,JEE,AI to AI,AI
+144.0,6253 (87.7810287),1101,110124210,Computer Science and Engineering,JEE,AI to AI,AI
+145.0,6324 (87.6521530),3475,347524510,Computer Engineering,JEE,AI to AI,AI
+146.0,6458 (87.4924247),6207,620724610,Information Technology,JEE,AI to AI,AI
+147.0,6507 (87.3353649),6155,615524510,Computer Engineering,JEE,AI to AI,AI
+148.0,6509 (87.3353649),6175,617561220,Mechanical Engineering,JEE,AI to AI,AI
+149.0,6531 (87.3174834),6281,628124510,Computer Engineering,JEE,AI to AI,AI
+150.0,6647 (87.2216470),6282,628224610,Information Technology,JEE,AI to AI,AI
+151.0,6648 (87.2216470),6176,617624510,Computer Engineering,JEE,AI to AI,AI
+152.0,6672 (87.2090374),3176,317637610,Electronics Engineering,JEE,AI to AI,AI
+153.0,6686 (87.1605258),3185,318537610,Electronics Engineering,JEE,AI to AI,AI
+154.0,6838 (86.8921614),6156,615624510,Computer Engineering,JEE,AI to AI,AI
+155.0,7009 (86.5792393),4116,411699710,Artificial Intelligence,JEE,AI to AI,AI
+156.0,7026 (86.5792393),6281,628124520,Computer Engineering,JEE,AI to AI,AI
+157.0,7137 (86.4765691),3183,318324610,Information Technology,JEE,AI to AI,AI
+158.0,7176 (86.4353841),3189,318924610,Information Technology,JEE,AI to AI,AI
+159.0,7236 (86.3334737),6285,628524510F,Computer Engineering,JEE,AI to AI,AI
+160.0,7242 (86.3334737),3203,320324510,Computer Engineering,JEE,AI to AI,AI
+161.0,7282 (86.2234746),6139,613924610,Information Technology,JEE,AI to AI,AI
+162.0,7298 (86.2234746),4142,414224210,Computer Science and Engineering,JEE,AI to AI,AI
+163.0,7330 (86.1693056),6754,675437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+164.0,7332 (86.1693056),3207,320724610,Information Technology,JEE,AI to AI,AI
+165.0,7448 (86.0316146),6214,621424510,Computer Engineering,JEE,AI to AI,AI
+166.0,7455 (86.0316146),3148,314824510,Computer Engineering,JEE,AI to AI,AI
+167.0,7541 (85.8991652),6155,615524610,Information Technology,JEE,AI to AI,AI
+168.0,7582 (85.8301142),6265,626524610,Information Technology,JEE,AI to AI,AI
+169.0,7661 (85.7869807),3187,318724510,Computer Engineering,JEE,AI to AI,AI
+170.0,7672 (85.7445380),3194,319424510,Computer Engineering,JEE,AI to AI,AI
+171.0,7686 (85.6840892),6176,617624610,Information Technology,JEE,AI to AI,AI
+172.0,7743 (85.6296276),3176,317619110,Civil Engineering,JEE,AI to AI,AI
+173.0,7835 (85.4368932),3197,319729310,Electrical Engineering,JEE,AI to AI,AI
+174.0,7947 (85.4059364),6214,621456810,"Computer Science and Information
+Technology",JEE,AI to AI,AI
+175.0,7970 (85.3778214),2250,225024210,Computer Science and Engineering,JEE,AI to AI,AI
+176.0,8086 (85.1084939),6139,613924620,Information Technology,JEE,AI to AI,AI
+177.0,8113 (85.0622493),4167,416724610,Information Technology,JEE,AI to AI,AI
+178.0,8127 (85.0622493),6822,682237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+179.0,8177 (85.0128714),3197,319761210,Mechanical Engineering,JEE,AI to AI,AI
+180.0,8204 (85.0128714),4167,416725110,Computer Technology,JEE,AI to AI,AI
+181.0,8316 (84.8392186),6145,614524510,Computer Engineering,JEE,AI to AI,AI
+182.0,8365 (84.8353696),6178,617824510,Computer Engineering,JEE,AI to AI,AI
+183.0,8496 (84.5898560),6272,627299510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+184.0,8631 (84.4759838),6284,628424510,Computer Engineering,JEE,AI to AI,AI
+185.0,8656 (84.4759838),6267,626724210,Computer Science and Engineering,JEE,AI to AI,AI
+186.0,8755 (84.3040913),4116,411624610,Information Technology,JEE,AI to AI,AI
+187.0,8773 (84.3040913),6146,614637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+188.0,8779 (84.3040913),3190,319024510,Computer Engineering,JEE,AI to AI,AI
+189.0,8836 (84.1854032),6178,617824520,Computer Engineering,JEE,AI to AI,AI
+190.0,8875 (84.1362819),6156,615624610,Information Technology,JEE,AI to AI,AI
+191.0,8881 (84.1362819),4174,417424610,Information Technology,JEE,AI to AI,AI
+192.0,8967 (83.9531460),6160,616024510,Computer Engineering,JEE,AI to AI,AI
+193.0,9050 (83.7700478),6207,620799510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+194.0,9072 (83.7592344),4174,417424510,Computer Engineering,JEE,AI to AI,AI
+195.0,9090 (83.7592344),3423,342324610,Information Technology,JEE,AI to AI,AI
+196.0,9154 (83.7000641),6265,626519110,Civil Engineering,JEE,AI to AI,AI
+197.0,9201 (83.6819036),6274,627437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+198.0,9221 (83.6510078),3201,320161210,Mechanical Engineering,JEE,AI to AI,AI
+199.0,9252 (83.5781296),6178,617824610,Information Technology,JEE,AI to AI,AI
+200.0,9271 (83.5306919),4116,411691710,Data Science,JEE,AI to AI,AI
+201.0,9422 (83.3202181),3201,320199510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+202.0,9512 (83.2164625),3203,320324610,Information Technology,JEE,AI to AI,AI
+203.0,9521 (83.2164625),1101,110124610,Information Technology,JEE,AI to AI,AI
+204.0,9671 (83.0211088),6802,680299510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+205.0,9724 (82.9589254),3148,314824610,Information Technology,JEE,AI to AI,AI
+206.0,9793 (82.8349555),5108,510824510,Computer Engineering,JEE,AI to AI,AI
+207.0,9795 (82.8349555),3194,319424610,Information Technology,JEE,AI to AI,AI
+208.0,9815 (82.8349555),6145,614524610,Information Technology,JEE,AI to AI,AI
+209.0,9831 (82.7539900),4649,464924510,Computer Engineering,JEE,AI to AI,AI
+210.0,9871 (82.7436999),5160,516024510,Computer Engineering,JEE,AI to AI,AI
+211.0,9952 (82.6456988),4171,417150710,Chemical Engineering,JEE,AI to AI,AI
+212.0,9958 (82.6456988),6289,628961210,Mechanical Engineering,JEE,AI to AI,AI
+213.0,9988 (82.5296090),3190,319024520,Computer Engineering,JEE,AI to AI,AI
+214.0,10031 (82.5135857),6278,627837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+215.0,10132 (82.3780358),6808,680861210,Mechanical Engineering,JEE,AI to AI,AI
+216.0,10184 (82.3595638),6182,618224510,Computer Engineering,JEE,AI to AI,AI
+217.0,10191 (82.3595638),5449,544924510,Computer Engineering,JEE,AI to AI,AI
+218.0,10283 (82.3289846),3194,319499510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+219.0,10295 (82.3289846),5164,516424510,Computer Engineering,JEE,AI to AI,AI
+220.0,10363 (82.1817193),3196,319624510,Computer Engineering,JEE,AI to AI,AI
+221.0,10387 (82.1440139),3211,321190010,Electronics and Computer Science,JEE,AI to AI,AI
+222.0,10488 (81.9028973),6272,627237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+223.0,10497 (81.9028973),6285,628524610F,Information Technology,JEE,AI to AI,AI
+224.0,10605 (81.7623135),6122,612224510,Computer Engineering,JEE,AI to AI,AI
+225.0,10633 (81.7547358),5152,515224210,Computer Science and Engineering,JEE,AI to AI,AI
+226.0,10692 (81.7073680),5162,516224510,Computer Engineering,JEE,AI to AI,AI
+227.0,10765 (81.6736280),6755,675524510,Computer Engineering,JEE,AI to AI,AI
+228.0,10766 (81.6736280),3189,318950710,Chemical Engineering,JEE,AI to AI,AI
+229.0,10790 (81.6656313),4137,413724210,Computer Science and Engineering,JEE,AI to AI,AI
+230.0,10980 (81.3864804),3460,346024610,Information Technology,JEE,AI to AI,AI
+231.0,11023 (81.2676448),3190,319024610,Information Technology,JEE,AI to AI,AI
+232.0,11070 (81.1457316),3212,321224510,Computer Engineering,JEE,AI to AI,AI
+233.0,11190 (81.0825854),6222,622224210,Computer Science and Engineering,JEE,AI to AI,AI
+234.0,11205 (81.0825854),3211,321137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+235.0,11343 (80.9835222),3188,318824510,Computer Engineering,JEE,AI to AI,AI
+236.0,11421 (80.8987154),3139,313937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+237.0,11464 (80.7278425),5121,512199510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+238.0,11557 (80.5366625),6274,627461210,Mechanical Engineering,JEE,AI to AI,AI
+239.0,11637 (80.4707730),6146,614619110,Civil Engineering,JEE,AI to AI,AI
+240.0,11680 (80.4707730),4175,417519110,Civil Engineering,JEE,AI to AI,AI
+241.0,11778 (80.4362532),4136,413624210,Computer Science and Engineering,JEE,AI to AI,AI
+242.0,11875 (80.3809342),2114,211424210,Computer Science and Engineering,JEE,AI to AI,AI
+243.0,11973 (80.2982813),6273,627350710,Chemical Engineering,JEE,AI to AI,AI
+244.0,12009 (80.2950778),3475,347524610,Information Technology,JEE,AI to AI,AI
+245.0,12011 (80.2950778),1105,110524210,Computer Science and Engineering,JEE,AI to AI,AI
+246.0,12020 (80.2950778),5162,516224610,Information Technology,JEE,AI to AI,AI
+247.0,12077 (80.0547856),6141,614137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+248.0,12254 (79.8129357),6284,628424610,Information Technology,JEE,AI to AI,AI
+249.0,12428 (79.5845466),6732,673224510,Computer Engineering,JEE,AI to AI,AI
+250.0,12431 (79.5845466),6298,629824510,Computer Engineering,JEE,AI to AI,AI
+251.0,12432 (79.5845466),3183,318337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+252.0,12449 (79.5845466),5160,516024610,Information Technology,JEE,AI to AI,AI
+253.0,12464 (79.5845466),3204,320437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+254.0,12497 (79.5845466),6182,618224520,Computer Engineering,JEE,AI to AI,AI
+255.0,12516 (79.5845466),5330,533024510,Computer Engineering,JEE,AI to AI,AI
+256.0,12579 (79.4107872),3148,314899510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+257.0,12643 (79.3433535),4171,417124210,Computer Science and Engineering,JEE,AI to AI,AI
+258.0,12653 (79.2999634),6310,631024510,Computer Engineering,JEE,AI to AI,AI
+259.0,12661 (79.2999634),6276,627661210F,Mechanical Engineering,JEE,AI to AI,AI
+260.0,12701 (79.2999634),6267,626708210,Bio Technology,JEE,AI to AI,AI
+261.0,12789 (79.2965978),3196,319691210,"Computer Science and
+Engineering(Data Science)",JEE,AI to AI,AI
+262.0,12904 (79.1882377),3187,318724610,Information Technology,JEE,AI to AI,AI
+263.0,12941 (79.1532000),6139,613999510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+264.0,13021 (79.0106045),3175,317524510,Computer Engineering,JEE,AI to AI,AI
+265.0,13077 (78.8491743),6649,664924510,Computer Engineering,JEE,AI to AI,AI
+266.0,13081 (78.8491743),5172,517224510,Computer Engineering,JEE,AI to AI,AI
+267.0,13141 (78.7086899),4138,413824210,Computer Science and Engineering,JEE,AI to AI,AI
+268.0,13236 (78.5509024),6282,628299510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+269.0,13243 (78.5509024),4167,416737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+270.0,13264 (78.5486677),6182,618224610,Information Technology,JEE,AI to AI,AI
+271.0,13300 (78.5069617),3146,314624510,Computer Engineering,JEE,AI to AI,AI
+272.0,13310 (78.5069617),6289,628919110,Civil Engineering,JEE,AI to AI,AI
+273.0,13314 (78.5069617),6273,627346410,"Instrumentation and Control
+Engineering",JEE,AI to AI,AI
+274.0,13424 (78.4246409),6214,621419110,Civil Engineering,JEE,AI to AI,AI
+275.0,13432 (78.4246409),3439,343924510,Computer Engineering,JEE,AI to AI,AI
+276.0,13436 (78.4246409),3154,315424510,Computer Engineering,JEE,AI to AI,AI
+277.0,13437 (78.4246409),6146,614650710,Chemical Engineering,JEE,AI to AI,AI
+278.0,13461 (78.3780324),4142,414299710,Artificial Intelligence,JEE,AI to AI,AI
+279.0,13482 (78.3746832),3148,314825210,Cyber Security,JEE,AI to AI,AI
+280.0,13492 (78.3746832),6179,617924510,Computer Engineering,JEE,AI to AI,AI
+281.0,13725 (77.9127753),6214,621429310,Electrical Engineering,JEE,AI to AI,AI
+282.0,13727 (77.9127753),6772,677224510,Computer Engineering,JEE,AI to AI,AI
+283.0,13752 (77.9127753),5139,513924510,Computer Engineering,JEE,AI to AI,AI
+284.0,13887 (77.8981424),6214,621437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+285.0,13891 (77.8981424),6802,680237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+286.0,13902 (77.7779556),4136,413699710,Artificial Intelligence,JEE,AI to AI,AI
+287.0,13940 (77.7158720),6206,620624510,Computer Engineering,JEE,AI to AI,AI
+288.0,13951 (77.7158720),6282,628237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+289.0,14005 (77.6563230),3192,319224510,Computer Engineering,JEE,AI to AI,AI
+290.0,14096 (77.5295019),4116,411637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+291.0,14207 (77.4639332),3188,318824610,Information Technology,JEE,AI to AI,AI
+292.0,14239 (77.4639332),6187,618724510,Computer Engineering,JEE,AI to AI,AI
+293.0,14323 (77.3008521),5164,516429310,Electrical Engineering,JEE,AI to AI,AI
+294.0,14344 (77.3008521),4171,417124610,Information Technology,JEE,AI to AI,AI
+295.0,14433 (77.1536909),3223,322324610,Information Technology,JEE,AI to AI,AI
+296.0,14444 (77.1536909),6185,618524510,Computer Engineering,JEE,AI to AI,AI
+297.0,14623 (76.7585007),6298,629824520,Computer Engineering,JEE,AI to AI,AI
+298.0,14766 (76.7218886),5121,512119110,Civil Engineering,JEE,AI to AI,AI
+299.0,14790 (76.7169081),6756,675619110,Civil Engineering,JEE,AI to AI,AI
+300.0,14832 (76.7169081),4177,417724210,Computer Science and Engineering,JEE,AI to AI,AI
+301.0,14903 (76.6575418),6622,662224510,Computer Engineering,JEE,AI to AI,AI
+302.0,15079 (76.4228752),3218,321824610,Information Technology,JEE,AI to AI,AI
+303.0,15117 (76.3249696),6187,618724520,Computer Engineering,JEE,AI to AI,AI
+304.0,15180 (76.2857399),6265,626537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+305.0,15244 (76.1275799),6146,614637610,Electronics Engineering,JEE,AI to AI,AI
+306.0,15274 (76.0101923),6203,620324510,Computer Engineering,JEE,AI to AI,AI
+307.0,15277 (76.0101923),3207,320761210,Mechanical Engineering,JEE,AI to AI,AI
+308.0,15321 (76.0053841),6139,613992110,"Artificial Intelligence and Machine
+Learning",JEE,AI to AI,AI
+309.0,15350 (76.0053841),6274,627429310,Electrical Engineering,JEE,AI to AI,AI
+310.0,15386 (75.9503111),6155,615519110,Civil Engineering,JEE,AI to AI,AI
+311.0,15398 (75.9503111),3185,318546610,Instrumentation Engineering,JEE,AI to AI,AI
+312.0,15416 (75.9503111),6786,678624510,Computer Engineering,JEE,AI to AI,AI
+313.0,15449 (75.9094961),3194,319491210,"Computer Science and
+Engineering(Data Science)",JEE,AI to AI,AI
+314.0,15471 (75.8366345),5108,510824610,Information Technology,JEE,AI to AI,AI
+315.0,15496 (75.8074167),1105,110524220,Computer Science and Engineering,JEE,AI to AI,AI
+316.0,15544 (75.8074167),3211,321161210,Mechanical Engineering,JEE,AI to AI,AI
+317.0,15709 (75.6240321),5139,513924610,Information Technology,JEE,AI to AI,AI
+318.0,15715 (75.6240321),6622,662299510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+319.0,15739 (75.5437861),6187,618724610,Information Technology,JEE,AI to AI,AI
+320.0,15790 (75.5208082),5172,517291210,"Computer Science and
+Engineering(Data Science)",JEE,AI to AI,AI
+,,,,Computer Science and Engineering,,,
+321.0,15796 (75.5208082),3196,319692010,(Internet of Things and Cyber Security,JEE,AI to AI,AI
+,,,,Including Block Chain Technology),,,
+,,,,Computer Science and,,,
+322.0,15896 (75.3232443),3196,319691110,Engineering(Artificial Intelligence and,JEE,AI to AI,AI
+,,,,Machine Learning),,,
+323.0,15943 (75.1866411),1120,112024210,Computer Science and Engineering,JEE,AI to AI,AI
+324.0,16026 (75.1591082),4649,464929310,Electrical Engineering,JEE,AI to AI,AI
+325.0,16041 (75.1591082),3201,320119110,Civil Engineering,JEE,AI to AI,AI
+326.0,16055 (75.1591082),5303,530319110,Civil Engineering,JEE,AI to AI,AI
+327.0,16064 (75.1591082),6325,632524510,Computer Engineering,JEE,AI to AI,AI
+328.0,16085 (75.1591082),5121,512137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+329.0,16089 (75.1591082),6794,679461210,Mechanical Engineering,JEE,AI to AI,AI
+330.0,16090 (75.1591082),6307,630724510,Computer Engineering,JEE,AI to AI,AI
+331.0,16163 (75.1355121),6311,631124510,Computer Engineering,JEE,AI to AI,AI
+332.0,16194 (75.1355121),6250,625024210,Computer Science and Engineering,JEE,AI to AI,AI
+333.0,16201 (75.1355121),3210,321024510,Computer Engineering,JEE,AI to AI,AI
+334.0,16277 (75.0900995),3204,320429310,Electrical Engineering,JEE,AI to AI,AI
+335.0,16325 (75.0900995),3219,321929310,Electrical Engineering,JEE,AI to AI,AI
+336.0,16363 (74.9989387),5121,512129310,Electrical Engineering,JEE,AI to AI,AI
+337.0,16385 (74.9989387),3218,321824510,Computer Engineering,JEE,AI to AI,AI
+338.0,16431 (74.9711649),6272,627261210,Mechanical Engineering,JEE,AI to AI,AI
+339.0,16444 (74.9711649),6273,627360610,Production Engineering,JEE,AI to AI,AI
+340.0,16492 (74.8831752),6185,618524520,Computer Engineering,JEE,AI to AI,AI
+341.0,16515 (74.8024546),4123,412324610,Information Technology,JEE,AI to AI,AI
+342.0,16548 (74.8024546),4123,412300210,Aeronautical Engineering,JEE,AI to AI,AI
+343.0,16563 (74.8024546),6206,620624610,Information Technology,JEE,AI to AI,AI
+344.0,16568 (74.8024546),6834,683424510,Computer Engineering,JEE,AI to AI,AI
+345.0,16606 (74.8024546),6177,617737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+346.0,16629 (74.8024546),3475,347537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+347.0,16643 (74.7839723),4138,413824610,Information Technology,JEE,AI to AI,AI
+348.0,16653 (74.7839723),6772,677224610,Information Technology,JEE,AI to AI,AI
+349.0,16676 (74.7744830),6282,628237220,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+350.0,16748 (74.7728567),6622,662292110,"Artificial Intelligence and Machine
+Learning",JEE,AI to AI,AI
+351.0,16775 (74.4172228),3208,320837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+352.0,16798 (74.4172228),6310,631024610,Information Technology,JEE,AI to AI,AI
+353.0,16851 (74.1593729),3223,322324510,Computer Engineering,JEE,AI to AI,AI
+354.0,16866 (74.1593729),6822,682261210,Mechanical Engineering,JEE,AI to AI,AI
+355.0,16954 (74.0207333),6283,628324210,Computer Science and Engineering,JEE,AI to AI,AI
+356.0,17045 (74.0129969),6146,614661210,Mechanical Engineering,JEE,AI to AI,AI
+357.0,17086 (74.0129969),5151,515124510,Computer Engineering,JEE,AI to AI,AI
+358.0,17115 (73.9255885),3460,346024510,Computer Engineering,JEE,AI to AI,AI
+359.0,17174 (73.9255885),6220,622024210,Computer Science and Engineering,JEE,AI to AI,AI
+360.0,17282 (73.8667080),3201,320137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+361.0,17442 (73.5421187),3154,315424610,Information Technology,JEE,AI to AI,AI
+362.0,17482 (73.4260200),3216,321650710,Chemical Engineering,JEE,AI to AI,AI
+363.0,17496 (73.4260200),6155,615537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+364.0,17498 (73.4260200),3210,321024610,Information Technology,JEE,AI to AI,AI
+365.0,17512 (73.4260200),6177,617737220,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+366.0,17548 (73.4260200),1101,110137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+367.0,17571 (73.3949946),3175,317524610,Information Technology,JEE,AI to AI,AI
+368.0,17575 (73.3949946),6207,620737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+369.0,17773 (73.1273916),4142,414291710,Data Science,JEE,AI to AI,AI
+370.0,17774 (73.1273916),4613,461361210,Mechanical Engineering,JEE,AI to AI,AI
+371.0,17930 (72.8887969),6796,679637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+372.0,17948 (72.8887969),4177,417724610,Information Technology,JEE,AI to AI,AI
+373.0,17993 (72.8887969),6138,613824510,Computer Engineering,JEE,AI to AI,AI
+374.0,17998 (72.8849174),6769,676924510,Computer Engineering,JEE,AI to AI,AI
+375.0,18149 (72.7848445),5151,515124610,Information Technology,JEE,AI to AI,AI
+376.0,18173 (72.7848445),6419,641924210,Computer Science and Engineering,JEE,AI to AI,AI
+377.0,18233 (72.6632578),5449,544924610,Information Technology,JEE,AI to AI,AI
+378.0,18326 (72.3311071),5181,518124510,Computer Engineering,JEE,AI to AI,AI
+379.0,18387 (72.2639672),6276,627646410F,"Instrumentation and Control
+Engineering",JEE,AI to AI,AI
+380.0,18421 (72.2639672),2113,211324210,Computer Science and Engineering,JEE,AI to AI,AI
+381.0,18466 (72.1964411),6222,622291310,"Computer Science and Engineering
+(Artificial Intelligence)",JEE,AI to AI,AI
+382.0,18561 (72.0753904),3146,314624610,Information Technology,JEE,AI to AI,AI
+383.0,18610 (72.0753904),6283,628300210,Aeronautical Engineering,JEE,AI to AI,AI
+384.0,18663 (71.9640107),6298,629824610,Information Technology,JEE,AI to AI,AI
+385.0,18699 (71.9640107),6311,631124610,Information Technology,JEE,AI to AI,AI
+386.0,18771 (71.9628422),6268,626824210,Computer Science and Engineering,JEE,AI to AI,AI
+387.0,18816 (71.9410506),4649,464961210,Mechanical Engineering,JEE,AI to AI,AI
+388.0,18818 (71.9410506),6214,621461210,Mechanical Engineering,JEE,AI to AI,AI
+389.0,18866 (71.9410506),6419,641991310,"Computer Science and Engineering
+(Artificial Intelligence)",JEE,AI to AI,AI
+390.0,18904 (71.8911882),6307,630724610,Information Technology,JEE,AI to AI,AI
+391.0,18913 (71.8911882),6144,614424510,Computer Engineering,JEE,AI to AI,AI
+392.0,18915 (71.7920906),3139,313937610,Electronics Engineering,JEE,AI to AI,AI
+393.0,18920 (71.7920906),4181,418124510,Computer Engineering,JEE,AI to AI,AI
+394.0,18938 (71.7920906),4151,415137010,"Electronics and Communication
+Engineering",JEE,AI to AI,AI
+395.0,18957 (71.5411222),6278,627861210,Mechanical Engineering,JEE,AI to AI,AI
+396.0,18968 (71.5284584),6802,680250710,Chemical Engineering,JEE,AI to AI,AI
+397.0,19006 (71.4568669),6275,627524510,Computer Engineering,JEE,AI to AI,AI
+398.0,19014 (71.4109789),3201,320190010,Electronics and Computer Science,JEE,AI to AI,AI
+399.0,19058 (71.4109789),5109,510924510,Computer Engineering,JEE,AI to AI,AI
+400.0,19089 (71.3897523),6139,613937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+401.0,19196 (71.3023665),6288,628824210,Computer Science and Engineering,JEE,AI to AI,AI
+402.0,19200 (71.3023665),2113,211301110,Agricultural Engineering,JEE,AI to AI,AI
+403.0,19243 (71.3023665),3148,314837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+404.0,19421 (71.0485263),5331,533129310,Electrical Engineering,JEE,AI to AI,AI
+405.0,19566 (70.9815068),6177,617719110,Civil Engineering,JEE,AI to AI,AI
+406.0,19607 (70.9815068),5160,516084410,Electronics and Computer Engineering,JEE,AI to AI,AI
+407.0,19637 (70.9291669),2137,213729710,Electrical and Electronics Engineering,JEE,AI to AI,AI
+408.0,19656 (70.9226452),4179,417924210,Computer Science and Engineering,JEE,AI to AI,AI
+409.0,19679 (70.9226452),3193,319324510,Computer Engineering,JEE,AI to AI,AI
+410.0,19688 (70.8541170),4123,412325110,Computer Technology,JEE,AI to AI,AI
+411.0,19709 (70.7278391),4171,417199510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+412.0,19790 (70.5058095),6185,618524610,Information Technology,JEE,AI to AI,AI
+413.0,19831 (70.5058095),6267,626737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+414.0,19833 (70.5058095),6275,627524610,Information Technology,JEE,AI to AI,AI
+415.0,19859 (70.5058095),6278,627819110,Civil Engineering,JEE,AI to AI,AI
+416.0,20059 (70.3751491),6298,629899510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+417.0,20130 (70.2821702),6176,617637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+418.0,20290 (70.1007800),4174,417437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+419.0,20308 (70.1007800),6184,618424510,Computer Engineering,JEE,AI to AI,AI
+420.0,20540 (70.0402566),6770,677024510,Computer Engineering,JEE,AI to AI,AI
+421.0,20554 (70.0402566),5331,533124510,Computer Engineering,JEE,AI to AI,AI
+422.0,20567 (70.0394263),3135,313561210,Mechanical Engineering,JEE,AI to AI,AI
+423.0,20583 (70.0394263),6207,620729310,Electrical Engineering,JEE,AI to AI,AI
+424.0,20605 (70.0394263),6780,678024210,Computer Science and Engineering,JEE,AI to AI,AI
+425.0,20625 (70.0394263),5121,512119120,Civil Engineering,JEE,AI to AI,AI
+426.0,20665 (69.8570446),5104,510424510,Computer Engineering,JEE,AI to AI,AI
+427.0,20717 (69.8570446),1114,111424210,Computer Science and Engineering,JEE,AI to AI,AI
+428.0,20769 (69.6269142),6155,615599710,Artificial Intelligence,JEE,AI to AI,AI
+429.0,20790 (69.5721052),4167,416761210,Mechanical Engineering,JEE,AI to AI,AI
+,,,,Computer Science and,,,
+430.0,20809 (69.5721052),2114,211491110,Engineering(Artificial Intelligence and,JEE,AI to AI,AI
+,,,,Machine Learning),,,
+431.0,20882 (69.5191252),3471,347124510,Computer Engineering,JEE,AI to AI,AI
+432.0,21006 (69.2311403),5162,516237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+433.0,21054 (69.2311403),5109,510924610,Information Technology,JEE,AI to AI,AI
+434.0,21102 (69.2278304),4167,416719110,Civil Engineering,JEE,AI to AI,AI
+435.0,21191 (69.2200654),3135,313537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+436.0,21218 (69.2200654),5121,512137220,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+437.0,21325 (68.7477964),6283,628350310,Food Technology,JEE,AI to AI,AI
+438.0,21425 (68.7138181),6278,627829310,Electrical Engineering,JEE,AI to AI,AI
+,,,,Computer Science and,,,
+439.0,21464 (68.7138181),6250,625091110,Engineering(Artificial Intelligence and,JEE,AI to AI,AI
+,,,,Machine Learning),,,
+440.0,21478 (68.7138181),6794,679424510,Computer Engineering,JEE,AI to AI,AI
+441.0,21507 (68.7138181),4197,419719110,Civil Engineering,JEE,AI to AI,AI
+442.0,21541 (68.6871920),6822,682219110,Civil Engineering,JEE,AI to AI,AI
+443.0,21545 (68.6871920),6769,676924610,Information Technology,JEE,AI to AI,AI
+444.0,21675 (68.5968060),6634,663424510,Computer Engineering,JEE,AI to AI,AI
+445.0,21880 (68.4444935),3193,319324610,Information Technology,JEE,AI to AI,AI
+446.0,21885 (68.4444935),4116,411629310,Electrical Engineering,JEE,AI to AI,AI
+447.0,21936 (68.3301235),6141,614129310,Electrical Engineering,JEE,AI to AI,AI
+448.0,22006 (68.1937916),3183,318319110,Civil Engineering,JEE,AI to AI,AI
+449.0,22123 (68.1304920),6272,627219110,Civil Engineering,JEE,AI to AI,AI
+450.0,22133 (68.1304920),6250,625091210,"Computer Science and
+Engineering(Data Science)",JEE,AI to AI,AI
+451.0,22178 (68.0996227),3196,319637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+452.0,22181 (68.0996227),4138,413899710,Artificial Intelligence,JEE,AI to AI,AI
+453.0,22230 (68.0762541),5161,516124610,Information Technology,JEE,AI to AI,AI
+454.0,22263 (68.0762541),4142,414237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+455.0,22272 (68.0762541),6270,627037610,Electronics Engineering,JEE,AI to AI,AI
+456.0,22509 (67.2872230),4167,416737610,Electronics Engineering,JEE,AI to AI,AI
+457.0,22526 (67.2872230),3460,346092410,Data Engineering,JEE,AI to AI,AI
+458.0,22591 (67.2872230),5125,512524510,Computer Engineering,JEE,AI to AI,AI
+459.0,22650 (67.1691260),3194,319461210,Mechanical Engineering,JEE,AI to AI,AI
+460.0,22727 (67.1137277),6177,617750710,Chemical Engineering,JEE,AI to AI,AI
+461.0,22947 (67.0027134),6222,622289810,"Textile Engineering (Fashion
+Technology)",JEE,AI to AI,AI
+462.0,23013 (66.8716372),1101,110161210,Mechanical Engineering,JEE,AI to AI,AI
+463.0,23053 (66.7783253),6770,677024610,Information Technology,JEE,AI to AI,AI
+464.0,23163 (66.7783253),6278,627850710,Chemical Engineering,JEE,AI to AI,AI
+465.0,23179 (66.7475854),4116,411619110,Civil Engineering,JEE,AI to AI,AI
+466.0,23183 (66.7475854),3139,313946110,Bio Medical Engineering,JEE,AI to AI,AI
+467.0,23364 (66.2619983),6222,622289610,Textile Technology,JEE,AI to AI,AI
+468.0,23600 (66.0143085),4116,411637610,Electronics Engineering,JEE,AI to AI,AI
+469.0,23613 (65.9994434),6139,613984410,Electronics and Computer Engineering,JEE,AI to AI,AI
+,,,,Computer Science and,,,
+470.0,23675 (65.9994434),3192,319291110,Engineering(Artificial Intelligence and,JEE,AI to AI,AI
+,,,,Machine Learning),,,
+471.0,23807 (65.8548294),3221,322124510,Computer Engineering,JEE,AI to AI,AI
+472.0,23817 (65.8548294),4147,414724210,Computer Science and Engineering,JEE,AI to AI,AI
+473.0,23882 (65.7479355),6808,680824510,Computer Engineering,JEE,AI to AI,AI
+474.0,23893 (65.7479355),4116,411661210,Mechanical Engineering,JEE,AI to AI,AI
+475.0,24022 (65.5495182),6269,626924210,Computer Science and Engineering,JEE,AI to AI,AI
+476.0,24208 (65.2431354),3154,315491110,"Computer Science and
+Engineering(Artificial Intelligence and
+Machine Learning)",JEE,AI to AI,AI
+477.0,24270 (65.0307172),4172,417224210,Computer Science and Engineering,JEE,AI to AI,AI
+478.0,24549 (64.9085090),2134,213419110,Civil Engineering,JEE,AI to AI,AI
+479.0,24550 (64.9085090),3222,322224510,Computer Engineering,JEE,AI to AI,AI
+480.0,24573 (64.9085090),1107,110724210,Computer Science and Engineering,JEE,AI to AI,AI
+481.0,24625 (64.9011073),6732,673299510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+482.0,24668 (64.8959321),4163,416370110,Mining Engineering,JEE,AI to AI,AI
+483.0,24736 (64.7918988),6223,622324210,Computer Science and Engineering,JEE,AI to AI,AI
+484.0,24787 (64.7900418),6643,664324210,Computer Science and Engineering,JEE,AI to AI,AI
+485.0,24794 (64.7900418),5418,541824510,Computer Engineering,JEE,AI to AI,AI
+486.0,24817 (64.5685027),6267,626729310,Electrical Engineering,JEE,AI to AI,AI
+487.0,24850 (64.5685027),3467,346724510,Computer Engineering,JEE,AI to AI,AI
+488.0,25049 (63.9247764),3477,347724510,Computer Engineering,JEE,AI to AI,AI
+489.0,25087 (63.9247764),3203,320337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+490.0,25132 (63.9247764),3207,320737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+491.0,25140 (63.9025795),6177,617708210,Bio Technology,JEE,AI to AI,AI
+492.0,25150 (63.9025795),6317,631724210,Computer Science and Engineering,JEE,AI to AI,AI
+493.0,25151 (63.9025795),6281,628137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+494.0,25294 (63.8282598),3175,317546110,Bio Medical Engineering,JEE,AI to AI,AI
+495.0,25435 (63.8282598),6640,664024210,Computer Science and Engineering,JEE,AI to AI,AI
+496.0,25437 (63.8282598),6284,628499510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+497.0,25520 (63.7897492),2127,212724210,Computer Science and Engineering,JEE,AI to AI,AI
+,,,,Computer Science and Engineering,,,
+498.0,25543 (63.7897492),3192,319292010,(Internet of Things and Cyber Security,JEE,AI to AI,AI
+,,,,Including Block Chain Technology),,,
+499.0,25551 (63.7496286),1126,112619110,Civil Engineering,JEE,AI to AI,AI
+500.0,25571 (63.7496286),5169,516919110,Civil Engineering,JEE,AI to AI,AI
+501.0,25646 (63.6696335),1101,110135610,Electrical Engg[Electronics and Power],JEE,AI to AI,AI
+502.0,25694 (63.6696335),1128,112824210,Computer Science and Engineering,JEE,AI to AI,AI
+503.0,25736 (63.6696335),5173,517324510,Computer Engineering,JEE,AI to AI,AI
+504.0,25741 (63.6696335),6141,614119110,Civil Engineering,JEE,AI to AI,AI
+505.0,25751 (63.6696335),2129,212924210,Computer Science and Engineering,JEE,AI to AI,AI
+506.0,25812 (63.4977421),4123,412319110,Civil Engineering,JEE,AI to AI,AI
+507.0,25842 (63.4810593),4151,415100210,Aeronautical Engineering,JEE,AI to AI,AI
+508.0,25845 (63.4810593),6272,627262610,Production Engineering[Sandwich],JEE,AI to AI,AI
+509.0,25920 (63.4810593),6156,615637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+510.0,26064 (63.2129688),5177,517724510,Computer Engineering,JEE,AI to AI,AI
+511.0,26069 (63.2129688),3207,320790010,Electronics and Computer Science,JEE,AI to AI,AI
+512.0,26135 (63.0112156),6622,662237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+513.0,26338 (62.7368048),6177,617719120,Civil Engineering,JEE,AI to AI,AI
+514.0,26373 (62.7368048),5160,516062410,Mechatronics Engineering,JEE,AI to AI,AI
+515.0,26382 (62.7368048),6250,625050710,Chemical Engineering,JEE,AI to AI,AI
+516.0,26403 (62.7368048),6839,683924210,Computer Science and Engineering,JEE,AI to AI,AI
+517.0,26454 (62.7368048),5152,515224610,Information Technology,JEE,AI to AI,AI
+518.0,26485 (62.6356061),6145,614537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+519.0,26690 (62.1723066),5172,517219110,Civil Engineering,JEE,AI to AI,AI
+520.0,26692 (62.1723066),6138,613819110,Civil Engineering,JEE,AI to AI,AI
+521.0,26715 (62.1723066),6267,626719110,Civil Engineering,JEE,AI to AI,AI
+522.0,26730 (62.1723066),5121,512150710,Chemical Engineering,JEE,AI to AI,AI
+523.0,26893 (61.8106139),6207,620791610,Automation and Robotics,JEE,AI to AI,AI
+524.0,26984 (61.8068601),5396,539624510,Computer Engineering,JEE,AI to AI,AI
+525.0,26989 (61.8068601),4174,417429310,Electrical Engineering,JEE,AI to AI,AI
+526.0,27077 (61.7967833),1182,118229310,Electrical Engineering,JEE,AI to AI,AI
+527.0,27110 (61.7967833),1105,110524610,Information Technology,JEE,AI to AI,AI
+528.0,27133 (61.7967833),6277,627724510,Computer Engineering,JEE,AI to AI,AI
+529.0,27172 (61.7365340),6625,662524510,Computer Engineering,JEE,AI to AI,AI
+530.0,27355 (61.4689324),3183,318360210,Automobile Engineering,JEE,AI to AI,AI
+531.0,27477 (61.3915184),6250,625037210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+532.0,27548 (61.2449702),6222,622288610,Man Made Textile Technology,JEE,AI to AI,AI
+533.0,27586 (61.2449702),4171,417108210,Bio Technology,JEE,AI to AI,AI
+534.0,27588 (61.2449702),6315,631561210,Mechanical Engineering,JEE,AI to AI,AI
+535.0,27591 (61.2449702),1121,112124210,Computer Science and Engineering,JEE,AI to AI,AI
+536.0,27634 (61.2449702),6176,617629310,Electrical Engineering,JEE,AI to AI,AI
+537.0,27740 (60.9325994),4174,417419110,Civil Engineering,JEE,AI to AI,AI
+538.0,27789 (60.9283224),6609,660924510,Computer Engineering,JEE,AI to AI,AI
+539.0,27831 (60.9283224),5172,517237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+540.0,27911 (60.7106959),6184,618424610,Information Technology,JEE,AI to AI,AI
+541.0,27988 (60.6136506),6265,626537610,Electronics Engineering,JEE,AI to AI,AI
+542.0,27989 (60.6136506),6284,628437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+543.0,28011 (60.6136506),2533,253324210,Computer Science and Engineering,JEE,AI to AI,AI
+544.0,28143 (60.3744720),4134,413424210,Computer Science and Engineering,JEE,AI to AI,AI
+545.0,28190 (60.2733485),5121,512161210,Mechanical Engineering,JEE,AI to AI,AI
+546.0,28198 (60.2733485),3196,319629310,Electrical Engineering,JEE,AI to AI,AI
+547.0,28206 (60.2733485),5172,517229310,Electrical Engineering,JEE,AI to AI,AI
+548.0,28301 (60.1411398),6797,679724210,Computer Science and Engineering,JEE,AI to AI,AI
+549.0,28340 (60.1411398),4147,414724610,Information Technology,JEE,AI to AI,AI
+550.0,28413 (60.1371142),2126,212624210,Computer Science and Engineering,JEE,AI to AI,AI
+551.0,28436 (60.1371142),3471,347199510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+552.0,28460 (60.1371142),3200,320091110,"Computer Science and
+Engineering(Artificial Intelligence and
+Machine Learning)",JEE,AI to AI,AI
+553.0,28471 (60.1371142),6138,613824610,Information Technology,JEE,AI to AI,AI
+554.0,28516 (60.0851338),6768,676824510,Computer Engineering,JEE,AI to AI,AI
+555.0,28691 (59.8178469),3175,317550710,Chemical Engineering,JEE,AI to AI,AI
+556.0,28696 (59.8178469),3187,318719110,Civil Engineering,JEE,AI to AI,AI
+557.0,28720 (59.6810501),6781,678161210,Mechanical Engineering,JEE,AI to AI,AI
+558.0,28729 (59.4964083),3194,319461220,Mechanical Engineering,JEE,AI to AI,AI
+559.0,28783 (59.4964083),4304,430424510F,Computer Engineering,JEE,AI to AI,AI
+560.0,28885 (59.4364433),6815,681524510,Computer Engineering,JEE,AI to AI,AI
+561.0,28943 (59.4364433),5103,510324510,Computer Engineering,JEE,AI to AI,AI
+562.0,28988 (59.3689520),5160,516029310,Electrical Engineering,JEE,AI to AI,AI
+563.0,29000 (59.3689520),4133,413361210,Mechanical Engineering,JEE,AI to AI,AI
+564.0,29021 (59.3689520),4137,413737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+565.0,29034 (59.3689520),6317,631799510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+566.0,29266 (58.9066059),5162,516229310,Electrical Engineering,JEE,AI to AI,AI
+567.0,29498 (58.7898164),6268,626850710,Chemical Engineering,JEE,AI to AI,AI
+568.0,29606 (58.6924683),4104,410425110,Computer Technology,JEE,AI to AI,AI
+569.0,29699 (58.3782796),6155,615591710,Data Science,JEE,AI to AI,AI
+570.0,29713 (58.3466684),5330,533024610,Information Technology,JEE,AI to AI,AI
+571.0,29803 (58.2063894),3200,320024610,Information Technology,JEE,AI to AI,AI
+572.0,29807 (58.2063894),5121,512129320,Electrical Engineering,JEE,AI to AI,AI
+573.0,29827 (58.2063894),6270,627024210,Computer Science and Engineering,JEE,AI to AI,AI
+574.0,29878 (58.1319140),4147,414737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+575.0,30222 (57.5032788),1265,126524210,Computer Science and Engineering,JEE,AI to AI,AI
+576.0,30229 (57.5032788),3187,318791810,Civil and infrastructure Engineering,JEE,AI to AI,AI
+577.0,30236 (57.5032788),3222,322237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+578.0,30391 (57.4239924),5172,517261210,Mechanical Engineering,JEE,AI to AI,AI
+579.0,30403 (57.4239924),3189,318937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+580.0,30414 (57.4239924),3194,319419110,Civil Engineering,JEE,AI to AI,AI
+581.0,30630 (57.1182619),4179,417999510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+582.0,30732 (57.0327540),3194,319437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+583.0,30784 (57.0327540),6222,622237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+584.0,30834 (57.0233901),6222,622289510,Textile Plant Engineering,JEE,AI to AI,AI
+585.0,30955 (56.9811784),3207,320760210,Automobile Engineering,JEE,AI to AI,AI
+586.0,31139 (56.5877156),6755,675537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+587.0,31171 (56.2050411),4142,414219110,Civil Engineering,JEE,AI to AI,AI
+588.0,31230 (56.1546451),4144,414424210,Computer Science and Engineering,JEE,AI to AI,AI
+589.0,31244 (56.1196908),6144,614424610,Information Technology,JEE,AI to AI,AI
+590.0,31297 (56.1196908),6762,676224210,Computer Science and Engineering,JEE,AI to AI,AI
+591.0,31390 (56.1054739),5104,510450710,Chemical Engineering,JEE,AI to AI,AI
+592.0,31474 (56.1054739),5121,512121910,Robotics and Automation,JEE,AI to AI,AI
+593.0,31518 (56.1054739),3218,321861210,Mechanical Engineering,JEE,AI to AI,AI
+594.0,31533 (56.1054739),3190,319019110,Civil Engineering,JEE,AI to AI,AI
+595.0,31570 (56.0947610),2127,212724610,Information Technology,JEE,AI to AI,AI
+596.0,31657 (56.0947610),6303,630324210,Computer Science and Engineering,JEE,AI to AI,AI
+597.0,31689 (55.9786086),4104,410424610,Information Technology,JEE,AI to AI,AI
+598.0,31705 (55.9656403),6207,620719110,Civil Engineering,JEE,AI to AI,AI
+599.0,31828 (55.9656403),1114,111424610,Information Technology,JEE,AI to AI,AI
+600.0,31921 (55.9351597),4138,413819110,Civil Engineering,JEE,AI to AI,AI
+601.0,31994 (55.9351597),6139,613929310,Electrical Engineering,JEE,AI to AI,AI
+602.0,32038 (55.7621254),6298,629837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+603.0,32084 (55.6161188),5152,515291710,Data Science,JEE,AI to AI,AI
+604.0,32100 (55.6161188),1120,112050710,Chemical Engineering,JEE,AI to AI,AI
+605.0,32131 (55.6161188),4142,414261210,Mechanical Engineering,JEE,AI to AI,AI
+606.0,32152 (55.6161188),6178,617837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+607.0,32343 (55.5010390),3187,318750710,Chemical Engineering,JEE,AI to AI,AI
+608.0,32374 (55.5010390),5411,541161210,Mechanical Engineering,JEE,AI to AI,AI
+609.0,32393 (55.4845927),6794,679424610,Information Technology,JEE,AI to AI,AI
+610.0,32402 (55.4845927),4123,412337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+611.0,32456 (55.0706796),4177,417737010,"Electronics and Communication
+Engineering",JEE,AI to AI,AI
+612.0,32488 (54.8724746),6265,626561210,Mechanical Engineering,JEE,AI to AI,AI
+613.0,32672 (54.5210218),5104,510424610,Information Technology,JEE,AI to AI,AI
+614.0,32704 (54.5210218),6285,628537210F,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+615.0,32830 (54.4854936),5125,512524610,Information Technology,JEE,AI to AI,AI
+616.0,32843 (54.4854936),4145,414524210,Computer Science and Engineering,JEE,AI to AI,AI
+617.0,32862 (54.4854936),3447,344724510,Computer Engineering,JEE,AI to AI,AI
+618.0,32960 (54.3233046),5130,513024510,Computer Engineering,JEE,AI to AI,AI
+619.0,33372 (53.5861512),1128,112824610,Information Technology,JEE,AI to AI,AI
+620.0,33427 (53.5743091),6282,628229310,Electrical Engineering,JEE,AI to AI,AI
+621.0,33439 (53.5743091),6268,626837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+622.0,33454 (53.5389012),3203,320329310,Electrical Engineering,JEE,AI to AI,AI
+623.0,33524 (53.5211172),6122,612237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+624.0,33695 (53.2188173),3216,321624510,Computer Engineering,JEE,AI to AI,AI
+625.0,33775 (53.0793850),4174,417461210,Mechanical Engineering,JEE,AI to AI,AI
+626.0,33788 (53.0793850),3439,343937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+627.0,33862 (52.9664503),6178,617837220,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+628.0,33880 (52.9664503),3208,320861210,Mechanical Engineering,JEE,AI to AI,AI
+629.0,33917 (52.8740068),1268,126824210,Computer Science and Engineering,JEE,AI to AI,AI
+630.0,33987 (52.8740068),5121,512161220,Mechanical Engineering,JEE,AI to AI,AI
+631.0,34055 (52.7710985),6758,675824510,Computer Engineering,JEE,AI to AI,AI
+632.0,34075 (52.7710985),5170,517024210,Computer Science and Engineering,JEE,AI to AI,AI
+633.0,34084 (52.7710985),4138,413829310,Electrical Engineering,JEE,AI to AI,AI
+634.0,34110 (52.3324020),6176,617619110,Civil Engineering,JEE,AI to AI,AI
+635.0,34299 (52.3027847),4167,416735610,Electrical Engg[Electronics and Power],JEE,AI to AI,AI
+636.0,34382 (52.3027847),6207,620746610,Instrumentation Engineering,JEE,AI to AI,AI
+637.0,34394 (52.3027847),1117,111719110,Civil Engineering,JEE,AI to AI,AI
+638.0,34410 (52.3027847),4649,464919110,Civil Engineering,JEE,AI to AI,AI
+639.0,34506 (52.0562632),5177,517724610,Information Technology,JEE,AI to AI,AI
+640.0,34619 (51.8402041),3194,319446610,Instrumentation Engineering,JEE,AI to AI,AI
+641.0,34819 (51.8101657),1120,112037210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+642.0,34877 (51.8101657),6141,614161210,Mechanical Engineering,JEE,AI to AI,AI
+643.0,35021 (51.6183121),5173,517399510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+644.0,35148 (51.4351083),4177,417719110,Civil Engineering,JEE,AI to AI,AI
+645.0,35279 (50.7704716),3190,319037210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+646.0,35319 (50.7704716),5390,539061210,Mechanical Engineering,JEE,AI to AI,AI
+647.0,35330 (50.7704716),5170,517019110,Civil Engineering,JEE,AI to AI,AI
+648.0,35344 (50.7344940),6794,679499510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+649.0,35375 (50.6740377),5390,539024510,Computer Engineering,JEE,AI to AI,AI
+650.0,35441 (50.4963250),6320,632024510,Computer Engineering,JEE,AI to AI,AI
+651.0,35875 (50.1932767),1125,112519110,Civil Engineering,JEE,AI to AI,AI
+652.0,35881 (50.1932767),4142,414229310,Electrical Engineering,JEE,AI to AI,AI
+653.0,35899 (50.1760245),6149,614924510,Computer Engineering,JEE,AI to AI,AI
+654.0,35998 (50.1760245),3154,315491210,"Computer Science and
+Engineering(Data Science)",JEE,AI to AI,AI
+655.0,36006 (50.1760245),6759,675924510,Computer Engineering,JEE,AI to AI,AI
+656.0,36181 (50.0065467),5182,518224510,Computer Engineering,JEE,AI to AI,AI
+657.0,36188 (50.0065467),5449,544919110,Civil Engineering,JEE,AI to AI,AI
+658.0,36227 (49.6510469),1265,126537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+659.0,36351 (49.6417427),6222,622229310,Electrical Engineering,JEE,AI to AI,AI
+660.0,36447 (49.4031236),2126,212661210,Mechanical Engineering,JEE,AI to AI,AI
+661.0,36449 (49.4031236),6203,620362410,Mechatronics Engineering,JEE,AI to AI,AI
+662.0,36520 (49.0629492),6122,612261220,Mechanical Engineering,JEE,AI to AI,AI
+663.0,36530 (49.0629492),5170,517099410,Robotics,JEE,AI to AI,AI
+664.0,36606 (48.8733653),5152,515299710,Artificial Intelligence,JEE,AI to AI,AI
+665.0,36654 (48.8733653),5108,510837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+666.0,36690 (48.7595338),6794,679437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+667.0,36722 (48.6407358),4139,413924210,Computer Science and Engineering,JEE,AI to AI,AI
+668.0,36791 (48.6407358),2112,211224210,Computer Science and Engineering,JEE,AI to AI,AI
+669.0,37175 (48.0636197),4138,413837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+670.0,37285 (47.8236972),5139,513961210,Mechanical Engineering,JEE,AI to AI,AI
+671.0,37319 (47.8236972),4193,419324210,Computer Science and Engineering,JEE,AI to AI,AI
+672.0,37351 (47.8236972),5108,510819110,Civil Engineering,JEE,AI to AI,AI
+673.0,37370 (47.8236972),6222,622289010,Textile Chemistry,JEE,AI to AI,AI
+674.0,37658 (47.3984733),5396,539619110,Civil Engineering,JEE,AI to AI,AI
+675.0,37665 (47.3984733),5124,512424510,Computer Engineering,JEE,AI to AI,AI
+676.0,37715 (47.3984733),6182,618219110,Civil Engineering,JEE,AI to AI,AI
+677.0,37870 (47.2243758),5162,516260610,Production Engineering,JEE,AI to AI,AI
+678.0,37932 (47.2195101),3423,342390010,Electronics and Computer Science,JEE,AI to AI,AI
+679.0,37950 (47.2195101),6622,662261210,Mechanical Engineering,JEE,AI to AI,AI
+680.0,37952 (47.2195101),6187,618761210,Mechanical Engineering,JEE,AI to AI,AI
+681.0,38001 (47.1462961),6802,680219110,Civil Engineering,JEE,AI to AI,AI
+682.0,38183 (47.0407952),5449,544929310,Electrical Engineering,JEE,AI to AI,AI
+683.0,38225 (47.0407952),6732,673219110,Civil Engineering,JEE,AI to AI,AI
+684.0,38391 (47.0339246),3219,321924610,Information Technology,JEE,AI to AI,AI
+685.0,38393 (47.0339246),6632,663219110,Civil Engineering,JEE,AI to AI,AI
+686.0,38472 (46.6043774),2129,212924610,Information Technology,JEE,AI to AI,AI
+687.0,38526 (46.2177230),5162,516261210,Mechanical Engineering,JEE,AI to AI,AI
+688.0,38580 (46.2177230),3423,342337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+689.0,38636 (46.0804821),3148,314890010,Electronics and Computer Science,JEE,AI to AI,AI
+690.0,38797 (45.7902205),4151,415124210,Computer Science and Engineering,JEE,AI to AI,AI
+691.0,38805 (45.7902205),1127,112724510,Computer Engineering,JEE,AI to AI,AI
+692.0,38861 (45.7804866),6183,618324510,Computer Engineering,JEE,AI to AI,AI
+693.0,38904 (45.7804866),3206,320661210,Mechanical Engineering,JEE,AI to AI,AI
+694.0,38922 (45.7804866),5184,518424510,Computer Engineering,JEE,AI to AI,AI
+695.0,38998 (45.5906789),6796,679619110,Civil Engineering,JEE,AI to AI,AI
+696.0,39097 (45.3472919),3471,347119110,Civil Engineering,JEE,AI to AI,AI
+697.0,39109 (45.2455746),6160,616037210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+698.0,39193 (45.0374181),6206,620661210,Mechanical Engineering,JEE,AI to AI,AI
+699.0,39209 (45.0374181),5449,544961210,Mechanical Engineering,JEE,AI to AI,AI
+700.0,39225 (45.0374181),3147,314724510,Computer Engineering,JEE,AI to AI,AI
+701.0,39242 (45.0374181),6769,676919110,Civil Engineering,JEE,AI to AI,AI
+702.0,39295 (44.9736417),5382,538224510,Computer Engineering,JEE,AI to AI,AI
+703.0,39330 (44.9736417),6803,680324210,Computer Science and Engineering,JEE,AI to AI,AI
+704.0,39374 (44.6527699),6267,626761210,Mechanical Engineering,JEE,AI to AI,AI
+705.0,39575 (44.4346883),6277,627737010,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+706.0,39607 (44.4346883),6649,664937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+707.0,39683 (44.4053173),1265,126535610,Electrical Engg[Electronics and Power],JEE,AI to AI,AI
+708.0,39700 (44.4053173),3146,314692010,"Computer Science and Engineering
+(Internet of Things and Cyber Security
+Including Block Chain Technology)",JEE,AI to AI,AI
+709.0,39763 (44.3219926),3188,318837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+710.0,39766 (44.3219926),1123,112324210,Computer Science and Engineering,JEE,AI to AI,AI
+711.0,39773 (44.3219926),1114,111419110,Civil Engineering,JEE,AI to AI,AI
+712.0,39849 (44.3133247),5103,510319110,Civil Engineering,JEE,AI to AI,AI
+713.0,40137 (43.9085319),4193,419329310,Electrical Engineering,JEE,AI to AI,AI
+714.0,40384 (43.1388868),3219,321924510,Computer Engineering,JEE,AI to AI,AI
+715.0,40385 (43.1388868),5401,540124510,Computer Engineering,JEE,AI to AI,AI
+716.0,40448 (43.1388868),6311,631137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+717.0,40459 (43.1388868),6149,614924610,Information Technology,JEE,AI to AI,AI
+718.0,40540 (42.8699409),5411,541129310,Electrical Engineering,JEE,AI to AI,AI
+719.0,40743 (42.4413035),2114,211461210,Mechanical Engineering,JEE,AI to AI,AI
+720.0,40746 (42.4413035),5399,539924510,Computer Engineering,JEE,AI to AI,AI
+721.0,40820 (42.4413035),2127,212719110,Civil Engineering,JEE,AI to AI,AI
+722.0,41323 (42.1318504),6269,626950710,Chemical Engineering,JEE,AI to AI,AI
+723.0,41437 (41.7292723),3198,319824510,Computer Engineering,JEE,AI to AI,AI
+724.0,41526 (41.5159598),6313,631324510,Computer Engineering,JEE,AI to AI,AI
+725.0,41619 (41.2725431),5411,541124510,Computer Engineering,JEE,AI to AI,AI
+726.0,41659 (41.2725431),5125,512537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+727.0,41797 (41.1445071),5109,510961210,Mechanical Engineering,JEE,AI to AI,AI
+728.0,41816 (41.1445071),3217,321724510,Computer Engineering,JEE,AI to AI,AI
+729.0,41905 (40.8759878),5408,540824510,Computer Engineering,JEE,AI to AI,AI
+730.0,41965 (40.7696398),6277,627724610,Information Technology,JEE,AI to AI,AI
+731.0,42015 (40.7696398),6283,628319110,Civil Engineering,JEE,AI to AI,AI
+732.0,42178 (40.6861324),4179,417919110,Civil Engineering,JEE,AI to AI,AI
+733.0,42244 (40.6057647),4139,413937210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+734.0,42270 (40.6057647),3189,318961210,Mechanical Engineering,JEE,AI to AI,AI
+735.0,42308 (40.4856981),4163,416324210,Computer Science and Engineering,JEE,AI to AI,AI
+736.0,42337 (40.3677687),6839,683991210,"Computer Science and
+Engineering(Data Science)",JEE,AI to AI,AI
+737.0,42347 (40.3677687),6284,628461210,Mechanical Engineering,JEE,AI to AI,AI
+738.0,42392 (40.1103087),1105,110519110,Civil Engineering,JEE,AI to AI,AI
+739.0,42478 (39.9073588),4136,413619110,Civil Engineering,JEE,AI to AI,AI
+740.0,42539 (39.9073588),4145,414529310,Electrical Engineering,JEE,AI to AI,AI
+741.0,42645 (39.6393106),3475,347561210,Mechanical Engineering,JEE,AI to AI,AI
+742.0,42735 (39.6393106),4133,413319110,Civil Engineering,JEE,AI to AI,AI
+743.0,42797 (39.3730397),3216,321661210,Mechanical Engineering,JEE,AI to AI,AI
+744.0,42809 (39.3730397),6298,629821910,Robotics and Automation,JEE,AI to AI,AI
+745.0,42817 (39.3730397),3203,320337610,Electronics Engineering,JEE,AI to AI,AI
+746.0,43076 (39.0696101),5104,510408210,Bio Technology,JEE,AI to AI,AI
+747.0,43241 (39.0066957),4144,414424610,Information Technology,JEE,AI to AI,AI
+748.0,43704 (38.2578264),2252,225229710,Electrical and Electronics Engineering,JEE,AI to AI,AI
+749.0,43868 (37.7559600),6284,628419110,Civil Engineering,JEE,AI to AI,AI
+750.0,43902 (37.3316025),5170,517029310,Electrical Engineering,JEE,AI to AI,AI
+751.0,44161 (37.2476388),6732,673237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+752.0,44335 (37.1005644),1120,112061210,Mechanical Engineering,JEE,AI to AI,AI
+753.0,44368 (36.9338201),1180,118024210,Computer Science and Engineering,JEE,AI to AI,AI
+754.0,44474 (36.7327018),6207,620761210,Mechanical Engineering,JEE,AI to AI,AI
+755.0,44525 (36.6680582),2138,213829310,Electrical Engineering,JEE,AI to AI,AI
+756.0,44633 (36.6206866),6139,613929320,Electrical Engineering,JEE,AI to AI,AI
+757.0,44778 (35.6771064),2134,213424210,Computer Science and Engineering,JEE,AI to AI,AI
+758.0,44944 (35.4309860),3198,319824610,Information Technology,JEE,AI to AI,AI
+759.0,44999 (35.2427212),6267,626792210,Civil and Environmental Engineering,JEE,AI to AI,AI
+760.0,45334 (34.7484478),5104,510429310,Electrical Engineering,JEE,AI to AI,AI
+761.0,45457 (34.4909229),2111,211161210,Mechanical Engineering,JEE,AI to AI,AI
+762.0,45486 (34.4909229),6155,615561210,Mechanical Engineering,JEE,AI to AI,AI
+763.0,45513 (34.4909229),5124,512429310,Electrical Engineering,JEE,AI to AI,AI
+764.0,45605 (34.3267209),6802,680261210,Mechanical Engineering,JEE,AI to AI,AI
+765.0,45609 (34.3267209),3471,347162410,Mechatronics Engineering,JEE,AI to AI,AI
+766.0,45737 (33.7253645),4195,419561210,Mechanical Engineering,JEE,AI to AI,AI
+767.0,45857 (33.5809745),1116,111624210,Computer Science and Engineering,JEE,AI to AI,AI
+768.0,45867 (33.5809745),1128,112837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+769.0,45920 (33.5809745),6757,675724210,Computer Science and Engineering,JEE,AI to AI,AI
+770.0,45950 (33.2778596),6217,621724210,Computer Science and Engineering,JEE,AI to AI,AI
+771.0,46013 (33.2540180),4151,415124610,Information Technology,JEE,AI to AI,AI
+772.0,46049 (33.2540180),6315,631524210,Computer Science and Engineering,JEE,AI to AI,AI
+773.0,46078 (33.2540180),2116,211629310,Electrical Engineering,JEE,AI to AI,AI
+774.0,46130 (33.0741999),6732,673261210,Mechanical Engineering,JEE,AI to AI,AI
+775.0,46168 (33.0320404),5161,516161210,Mechanical Engineering,JEE,AI to AI,AI
+776.0,46206 (32.7673615),2133,213324210,Computer Science and Engineering,JEE,AI to AI,AI
+777.0,46266 (32.6665943),6644,664424510,Computer Engineering,JEE,AI to AI,AI
+778.0,46368 (32.6278647),5164,516446610,Instrumentation Engineering,JEE,AI to AI,AI
+779.0,46485 (32.3065098),6222,622219110,Civil Engineering,JEE,AI to AI,AI
+780.0,46572 (32.0485446),5162,516237610,Electronics Engineering,JEE,AI to AI,AI
+781.0,46791 (31.7643216),6322,632224510,Computer Engineering,JEE,AI to AI,AI
+782.0,46796 (31.7643216),5125,512561210,Mechanical Engineering,JEE,AI to AI,AI
+783.0,46860 (31.7643216),6275,627537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+784.0,46959 (31.6266886),2127,212737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+785.0,46976 (31.6266886),3206,320624510,Computer Engineering,JEE,AI to AI,AI
+786.0,46996 (31.6266886),4139,413929310,Electrical Engineering,JEE,AI to AI,AI
+787.0,47060 (31.5668267),6220,622037210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+788.0,47102 (31.5668267),4138,413861210,Mechanical Engineering,JEE,AI to AI,AI
+789.0,47150 (31.5668267),6310,631037210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+790.0,47468 (30.4835081),3222,322224610,Information Technology,JEE,AI to AI,AI
+791.0,47519 (30.4342956),5160,516019110,Civil Engineering,JEE,AI to AI,AI
+792.0,47663 (30.3863939),3198,319861210,Mechanical Engineering,JEE,AI to AI,AI
+793.0,47685 (30.3863939),5106,510624510,Computer Engineering,JEE,AI to AI,AI
+794.0,47692 (30.3863939),5418,541829310,Electrical Engineering,JEE,AI to AI,AI
+795.0,47695 (30.3863939),5125,512529310,Electrical Engineering,JEE,AI to AI,AI
+796.0,47764 (30.0602099),6274,627484310,Printing Technology,JEE,AI to AI,AI
+797.0,47787 (30.0602099),1276,127661210,Mechanical Engineering,JEE,AI to AI,AI
+798.0,47818 (29.8564768),4172,417237210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+799.0,47937 (29.2236623),4141,414124510,Computer Engineering,JEE,AI to AI,AI
+800.0,48019 (29.1868408),5184,518461210,Mechanical Engineering,JEE,AI to AI,AI
+801.0,48075 (29.1226617),3423,342319110,Civil Engineering,JEE,AI to AI,AI
+802.0,48118 (29.0078620),5179,517924510,Computer Engineering,JEE,AI to AI,AI
+803.0,48190 (29.0025088),6649,664919110,Civil Engineering,JEE,AI to AI,AI
+804.0,48267 (29.0025088),3154,315461210,Mechanical Engineering,JEE,AI to AI,AI
+805.0,48314 (28.8380421),4136,413637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+806.0,48332 (28.8380421),1121,112124610,Information Technology,JEE,AI to AI,AI
+807.0,48572 (27.8187043),4188,418829310,Electrical Engineering,JEE,AI to AI,AI
+808.0,48665 (27.5436573),6545,654561210,Mechanical Engineering,JEE,AI to AI,AI
+809.0,48810 (27.3652240),4137,413729310,Electrical Engineering,JEE,AI to AI,AI
+810.0,48867 (27.3652240),2111,211124210,Computer Science and Engineering,JEE,AI to AI,AI
+811.0,48896 (27.3652240),3219,321991110,"Computer Science and
+Engineering(Artificial Intelligence and
+Machine Learning)",JEE,AI to AI,AI
+812.0,48907 (27.3652240),3202,320224510,Computer Engineering,JEE,AI to AI,AI
+813.0,48980 (27.1112503),6145,614529310,Electrical Engineering,JEE,AI to AI,AI
+814.0,49218 (26.2649485),6178,617861220,Mechanical Engineering,JEE,AI to AI,AI
+815.0,49222 (26.2649485),6298,629819110,Civil Engineering,JEE,AI to AI,AI
+816.0,49243 (26.2649485),3465,346524510,Computer Engineering,JEE,AI to AI,AI
+817.0,49263 (26.0849642),6187,618737210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+818.0,49320 (25.9994074),1119,111924210,Computer Science and Engineering,JEE,AI to AI,AI
+819.0,49363 (25.9994074),3475,347519110,Civil Engineering,JEE,AI to AI,AI
+820.0,49402 (25.8496658),6178,617861210,Mechanical Engineering,JEE,AI to AI,AI
+821.0,49614 (25.1627968),1105,110519120,Civil Engineering,JEE,AI to AI,AI
+822.0,49751 (24.8403201),6207,620761220,Mechanical Engineering,JEE,AI to AI,AI
+,,,,Computer Science and,,,
+823.0,49900 (24.5298782),3351,335191110,Engineering(Artificial Intelligence and,JEE,AI to AI,AI
+,,,,Machine Learning),,,
+824.0,49947 (24.4951420),4163,416337010,"Electronics and Communication
+Engineering",JEE,AI to AI,AI
+825.0,49963 (24.4474919),6156,615629310,Electrical Engineering,JEE,AI to AI,AI
+826.0,50027 (24.3984801),4195,419524210,Computer Science and Engineering,JEE,AI to AI,AI
+827.0,50040 (24.3984801),2127,212761210,Mechanical Engineering,JEE,AI to AI,AI
+828.0,50077 (24.3984801),6759,675999510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+829.0,50166 (23.9631532),4190,419061210,Mechanical Engineering,JEE,AI to AI,AI
+,,,,Computer Science and,,,
+830.0,50173 (23.9631532),3206,320691110,Engineering(Artificial Intelligence and,JEE,AI to AI,AI
+,,,,Machine Learning),,,
+831.0,50175 (23.9631532),4145,414561210,Mechanical Engineering,JEE,AI to AI,AI
+832.0,50263 (23.7707141),4118,411824510,Computer Engineering,JEE,AI to AI,AI
+833.0,50313 (23.6800095),1265,126561210,Mechanical Engineering,JEE,AI to AI,AI
+834.0,50367 (23.4733236),3439,343919110,Civil Engineering,JEE,AI to AI,AI
+835.0,50557 (22.9334785),3353,335324510,Computer Engineering,JEE,AI to AI,AI
+836.0,50620 (22.7953366),3192,319229310,Electrical Engineering,JEE,AI to AI,AI
+837.0,50639 (22.7953366),3187,318737610,Electronics Engineering,JEE,AI to AI,AI
+838.0,50674 (22.7914682),6767,676724510,Computer Engineering,JEE,AI to AI,AI
+839.0,50681 (22.7914682),4613,461324510,Computer Engineering,JEE,AI to AI,AI
+840.0,50821 (22.3648508),4163,416319110,Civil Engineering,JEE,AI to AI,AI
+841.0,50899 (22.3648508),6277,627719110,Civil Engineering,JEE,AI to AI,AI
+842.0,50934 (21.7803754),5399,539919110,Civil Engineering,JEE,AI to AI,AI
+843.0,50938 (21.7803754),1268,126861210,Mechanical Engineering,JEE,AI to AI,AI
+844.0,51064 (21.5881766),3503,350324510,Computer Engineering,JEE,AI to AI,AI
+845.0,51273 (21.4595949),6278,627862510,Mechanical Engineering[Sandwich],JEE,AI to AI,AI
+846.0,51448 (21.2720091),1123,112337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+847.0,51476 (21.2197142),3436,343624510,Computer Engineering,JEE,AI to AI,AI
+848.0,51524 (21.1611442),5152,515219110,Civil Engineering,JEE,AI to AI,AI
+849.0,51597 (20.2468881),5107,510724510,Computer Engineering,JEE,AI to AI,AI
+850.0,51749 (19.8018924),4151,415108210,Bio Technology,JEE,AI to AI,AI
+851.0,51800 (19.8018924),5409,540924510,Computer Engineering,JEE,AI to AI,AI
+852.0,51869 (19.2492929),4172,417229310,Electrical Engineering,JEE,AI to AI,AI
+853.0,51911 (19.2492929),4104,410429310,Electrical Engineering,JEE,AI to AI,AI
+854.0,51956 (19.1549917),4139,413961210,Mechanical Engineering,JEE,AI to AI,AI
+855.0,52042 (18.9039932),6643,664337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+856.0,52053 (18.7060250),6272,627246610,Instrumentation Engineering,JEE,AI to AI,AI
+857.0,52076 (18.6441397),1128,112829310,Electrical Engineering,JEE,AI to AI,AI
+858.0,52095 (18.6441397),6288,628837210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+859.0,52125 (18.5776005),1120,112089310,Textile Engineering / Technology,JEE,AI to AI,AI
+860.0,52147 (18.4600300),1120,112019110,Civil Engineering,JEE,AI to AI,AI
+861.0,52154 (18.4600300),4179,417929310,Electrical Engineering,JEE,AI to AI,AI
+862.0,52354 (18.1818182),4136,413629310,Electrical Engineering,JEE,AI to AI,AI
+863.0,52423 (17.5410548),5109,510919110,Civil Engineering,JEE,AI to AI,AI
+864.0,52738 (16.2968272),5161,516137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+865.0,52747 (16.2968272),4135,413524210,Computer Science and Engineering,JEE,AI to AI,AI
+866.0,52754 (16.2220645),6283,628329310,Electrical Engineering,JEE,AI to AI,AI
+867.0,52877 (16.0565984),3219,321961210,Mechanical Engineering,JEE,AI to AI,AI
+868.0,52897 (16.0565984),3146,314699510,Artificial Intelligence and Data Science,JEE,AI to AI,AI
+869.0,52903 (16.0565984),3175,317537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+870.0,52912 (16.0440633),1116,111661210,Mechanical Engineering,JEE,AI to AI,AI
+871.0,53029 (15.5689793),1107,110729310,Electrical Engineering,JEE,AI to AI,AI
+872.0,53090 (15.2992116),5162,516219110,Civil Engineering,JEE,AI to AI,AI
+873.0,53128 (15.1398735),5151,515119110,Civil Engineering,JEE,AI to AI,AI
+874.0,53218 (14.6569278),5164,516419110,Civil Engineering,JEE,AI to AI,AI
+875.0,53383 (14.3059295),6206,620637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+876.0,53439 (14.2266750),1123,112319110,Civil Engineering,JEE,AI to AI,AI
+877.0,53451 (14.2187036),4171,417129310,Electrical Engineering,JEE,AI to AI,AI
+878.0,53474 (14.2187036),4143,414361210,Mechanical Engineering,JEE,AI to AI,AI
+879.0,53484 (14.2187036),6303,630337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+880.0,53549 (13.7370702),5303,530324510,Computer Engineering,JEE,AI to AI,AI
+881.0,53584 (13.7370702),2111,211119110,Civil Engineering,JEE,AI to AI,AI
+882.0,53587 (13.7370702),4193,419337010,"Electronics and Communication
+Engineering",JEE,AI to AI,AI
+883.0,53638 (13.4009735),1116,111650710,Chemical Engineering,JEE,AI to AI,AI
+884.0,53645 (13.4009735),6628,662824510,Computer Engineering,JEE,AI to AI,AI
+885.0,53669 (13.4009735),6545,654524210,Computer Science and Engineering,JEE,AI to AI,AI
+886.0,53670 (13.4009735),5103,510337210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+887.0,53706 (13.3733173),6219,621946110,Bio Medical Engineering,JEE,AI to AI,AI
+888.0,53896 (12.2848547),6834,683419110,Civil Engineering,JEE,AI to AI,AI
+889.0,53991 (11.8326776),1125,112524210,Computer Science and Engineering,JEE,AI to AI,AI
+890.0,54033 (11.7399784),2130,213019110,Civil Engineering,JEE,AI to AI,AI
+891.0,54035 (11.7399784),4193,419361210,Mechanical Engineering,JEE,AI to AI,AI
+892.0,54089 (11.4941170),6122,612261210,Mechanical Engineering,JEE,AI to AI,AI
+893.0,54091 (11.4550268),6139,613961210,Mechanical Engineering,JEE,AI to AI,AI
+894.0,54128 (11.2974404),4188,418861210,Mechanical Engineering,JEE,AI to AI,AI
+895.0,54153 (10.9604270),1130,113024210,Computer Science and Engineering,JEE,AI to AI,AI
+896.0,54188 (10.9604270),5390,539092110,"Artificial Intelligence and Machine
+Learning",JEE,AI to AI,AI
+897.0,54248 (10.9183886),6317,631762410,Mechatronics Engineering,JEE,AI to AI,AI
+898.0,54283 (10.7247877),5181,518119110,Civil Engineering,JEE,AI to AI,AI
+899.0,54309 (10.6967535),3146,314637210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+900.0,54353 (10.5202225),2129,212937610,Electronics Engineering,JEE,AI to AI,AI
+901.0,54383 (10.4231617),4139,413937610,Electronics Engineering,JEE,AI to AI,AI
+902.0,54501 (9.7274695),1276,127624510,Computer Engineering,JEE,AI to AI,AI
+903.0,54532 (9.5258113),2112,211219110,Civil Engineering,JEE,AI to AI,AI
+904.0,54539 (9.2436574),4171,417137010,"Electronics and Communication
+Engineering",JEE,AI to AI,AI
+905.0,54563 (9.1547718),4304,430437210F,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+906.0,54632 (8.9638987),4118,411861210,Mechanical Engineering,JEE,AI to AI,AI
+907.0,54638 (8.9581697),3460,346019110,Civil Engineering,JEE,AI to AI,AI
+908.0,54739 (8.3658708),4188,418870110,Mining Engineering,JEE,AI to AI,AI
+909.0,54810 (8.1375507),4123,412361210,Mechanical Engineering,JEE,AI to AI,AI
+910.0,54854 (8.0254644),6275,627561210,Mechanical Engineering,JEE,AI to AI,AI
+911.0,54950 (7.4849748),3175,317561210,Mechanical Engineering,JEE,AI to AI,AI
+912.0,55060 (6.8282551),5151,515161210,Mechanical Engineering,JEE,AI to AI,AI
+913.0,55072 (6.7704666),4177,417761210,Mechanical Engineering,JEE,AI to AI,AI
+914.0,55133 (6.5101056),6185,618537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+915.0,55227 (5.8147644),4188,418819110,Civil Engineering,JEE,AI to AI,AI
+916.0,55235 (5.8147644),6780,678037210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+917.0,55282 (5.6070960),6769,676961210,Mechanical Engineering,JEE,AI to AI,AI
+918.0,55323 (5.4054919),6176,617661210,Mechanical Engineering,JEE,AI to AI,AI
+919.0,55354 (5.0358728),5164,516437210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+920.0,55397 (4.6029236),1121,112137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+921.0,55440 (4.3637586),4145,414537210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+922.0,55453 (4.3628670),6293,629324210,Computer Science and Engineering,JEE,AI to AI,AI
+923.0,55476 (4.3435656),5411,541137210,"Electronics and Telecommunication
+Engg",JEE,AI to AI,AI
+924.0,55507 (3.9555372),4151,415161210,Mechanical Engineering,JEE,AI to AI,AI
+925.0,55517 (3.9552275),4304,430461210F,Mechanical Engineering,JEE,AI to AI,AI
+926.0,55520 (3.9231374),6219,621924210,Computer Science and Engineering,JEE,AI to AI,AI
+927.0,55561 (3.6439701),6317,631719110,Civil Engineering,JEE,AI to AI,AI
+928.0,55571 (3.6439701),5106,510629310,Electrical Engineering,JEE,AI to AI,AI
+929.0,55600 (3.3928460),4195,419529310,Electrical Engineering,JEE,AI to AI,AI
+930.0,55602 (3.3928460),6185,618561210,Mechanical Engineering,JEE,AI to AI,AI
+931.0,55603 (3.3928460),6268,626861210,Mechanical Engineering,JEE,AI to AI,AI
+932.0,55682 (2.6045966),6632,663224510,Computer Engineering,JEE,AI to AI,AI
+933.0,55735 (2.1034088),6319,631919110,Civil Engineering,JEE,AI to AI,AI
+934.0,55737 (2.1034088),1126,112624210,Computer Science and Engineering,JEE,AI to AI,AI
+935.0,55744 (2.0315870),1180,118019110,Civil Engineering,JEE,AI to AI,AI
+936.0,55760 (1.8771153),1130,113019110,Civil Engineering,JEE,AI to AI,AI
+937.0,55771 (1.8353047),4285,428519110,Civil Engineering,JEE,AI to AI,AI
+938.0,55782 (1.7200626),1130,113061210,Mechanical Engineering,JEE,AI to AI,AI
+939.0,55861 (1.0063173),4172,417261210,Mechanical Engineering,JEE,AI to AI,AI
+940.0,55882 (0.7764750),1276,127619110,Civil Engineering,JEE,AI to AI,AI
+941.0,56584 (95.5178877),5418,541861210,Mechanical Engineering,MHT-CET,AI to AI,AI
+942.0,57702 (91.4432402),3218,321837210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+943.0,58005 (90.5079656),6179,617961210,Mechanical Engineering,MHT-CET,AI to AI,AI
+944.0,58022 (90.4789478),3222,322260210,Automobile Engineering,MHT-CET,AI to AI,AI
+945.0,59371 (87.0496161),5181,518137210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+946.0,59706 (86.2580042),3222,322291110,"Computer Science and
+Engineering(Artificial Intelligence and
+Machine Learning)",MHT-CET,AI to AI,AI
+947.0,60800 (83.9184061),2516,251624210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+948.0,60808 (83.9184061),3200,320050710,Chemical Engineering,MHT-CET,AI to AI,AI
+949.0,60898 (83.7542269),3460,346092110,"Artificial Intelligence and Machine
+Learning",MHT-CET,AI to AI,AI
+950.0,62051 (81.3053751),5152,515229310,Electrical Engineering,MHT-CET,AI to AI,AI
+951.0,62184 (81.0162910),5108,510861210,Mechanical Engineering,MHT-CET,AI to AI,AI
+952.0,62291 (80.8182830),3467,346791110,"Computer Science and
+Engineering(Artificial Intelligence and
+Machine Learning)",MHT-CET,AI to AI,AI
+953.0,63196 (78.9697101),6206,620646610,Instrumentation Engineering,MHT-CET,AI to AI,AI
+954.0,63431 (78.4854138),3477,347761210,Mechanical Engineering,MHT-CET,AI to AI,AI
+955.0,63483 (78.3911539),6324,632424510,Computer Engineering,MHT-CET,AI to AI,AI
+956.0,63497 (78.3206831),6311,631129310,Electrical Engineering,MHT-CET,AI to AI,AI
+957.0,65589 (74.3378698),3175,317529310,Electrical Engineering,MHT-CET,AI to AI,AI
+958.0,65969 (73.5329037),4147,414761210,Mechanical Engineering,MHT-CET,AI to AI,AI
+959.0,66445 (72.5776220),3154,315419110,Civil Engineering,MHT-CET,AI to AI,AI
+960.0,66726 (71.9509242),2522,252224510,Computer Engineering,MHT-CET,AI to AI,AI
+961.0,66898 (71.6974982),6183,618337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+962.0,66912 (71.6974982),4172,417219110,Civil Engineering,MHT-CET,AI to AI,AI
+963.0,67275 (71.0406477),3206,320629310,Electrical Engineering,MHT-CET,AI to AI,AI
+964.0,67508 (70.5748291),6419,641937010,"Electronics and Communication
+Engineering",MHT-CET,AI to AI,AI
+965.0,69286 (66.9447726),6419,641961210,Mechanical Engineering,MHT-CET,AI to AI,AI
+966.0,69458 (66.7530038),3196,319661210,Mechanical Engineering,MHT-CET,AI to AI,AI
+967.0,69625 (66.5276503),3439,343929310,Electrical Engineering,MHT-CET,AI to AI,AI
+968.0,69641 (66.5204925),6796,679661210,Mechanical Engineering,MHT-CET,AI to AI,AI
+969.0,69960 (66.0447761),6878,687819110,Civil Engineering,MHT-CET,AI to AI,AI
+970.0,70141 (65.2761370),1105,110537210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+971.0,70260 (65.0496408),6635,663524510,Computer Engineering,MHT-CET,AI to AI,AI
+972.0,70452 (64.9940968),3423,342361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+973.0,70794 (64.0086029),3467,346761210,Mechanical Engineering,MHT-CET,AI to AI,AI
+974.0,70800 (64.0086029),3224,322424510,Computer Engineering,MHT-CET,AI to AI,AI
+975.0,71442 (62.8864315),6625,662561210,Mechanical Engineering,MHT-CET,AI to AI,AI
+976.0,71669 (62.4154511),3445,344525410,Computer Science and Technology,MHT-CET,AI to AI,AI
+977.0,71823 (61.8218588),3190,319062410,Mechatronics Engineering,MHT-CET,AI to AI,AI
+978.0,72509 (60.5737104),3212,321237210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+979.0,72842 (59.6157997),6634,663437210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+980.0,73825 (57.9531237),1119,111950710,Chemical Engineering,MHT-CET,AI to AI,AI
+981.0,74029 (57.1344296),6310,631061210,Mechanical Engineering,MHT-CET,AI to AI,AI
+982.0,74163 (57.0105054),6319,631924510,Computer Engineering,MHT-CET,AI to AI,AI
+983.0,74546 (56.2223276),3439,343961210,Mechanical Engineering,MHT-CET,AI to AI,AI
+984.0,74720 (55.7162386),6284,628429310,Electrical Engineering,MHT-CET,AI to AI,AI
+985.0,75271 (54.5240027),3210,321037210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+986.0,75510 (54.1568222),3190,319037610,Electronics Engineering,MHT-CET,AI to AI,AI
+987.0,75568 (54.1113194),3221,322119110,Civil Engineering,MHT-CET,AI to AI,AI
+988.0,76031 (52.9257123),6160,616061210,Mechanical Engineering,MHT-CET,AI to AI,AI
+989.0,76033 (52.9257123),2573,257324510,Computer Engineering,MHT-CET,AI to AI,AI
+990.0,76122 (52.7484058),6220,622029310,Electrical Engineering,MHT-CET,AI to AI,AI
+991.0,76530 (52.0094388),1117,111724210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+992.0,76687 (51.6391022),2250,225037210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+993.0,76690 (51.6391022),3223,322337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+994.0,76833 (50.9892798),6122,612219110,Civil Engineering,MHT-CET,AI to AI,AI
+995.0,77659 (49.4727527),4135,413519110,Civil Engineering,MHT-CET,AI to AI,AI
+996.0,77699 (49.4727527),2254,225424510,Computer Engineering,MHT-CET,AI to AI,AI
+997.0,77743 (49.4727527),5139,513937210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+998.0,77986 (48.4998921),6177,617761210,Mechanical Engineering,MHT-CET,AI to AI,AI
+999.0,78057 (48.4998921),6184,618437210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1000.0,78092 (48.1429399),6305,630524610,Information Technology,MHT-CET,AI to AI,AI
+1001.0,78175 (47.7783049),1116,111619110,Civil Engineering,MHT-CET,AI to AI,AI
+1002.0,78306 (47.7445862),6321,632124210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1003.0,78401 (47.5835199),4123,412335610,Electrical Engg[Electronics and Power],MHT-CET,AI to AI,AI
+1004.0,78548 (46.7882164),3175,317519120,Civil Engineering,MHT-CET,AI to AI,AI
+1005.0,78912 (46.3613397),6156,615661220,Mechanical Engineering,MHT-CET,AI to AI,AI
+1006.0,79291 (45.7227139),6308,630824510,Computer Engineering,MHT-CET,AI to AI,AI
+1007.0,80477 (42.6018901),3222,322261210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1008.0,80496 (42.6018901),2130,213024210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1009.0,80502 (42.6018901),3187,318761210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1010.0,80636 (41.8722328),3224,322491110,"Computer Science and
+Engineering(Artificial Intelligence and
+Machine Learning)",MHT-CET,AI to AI,AI
+1011.0,80736 (41.7486972),6755,675561210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1012.0,80767 (41.7486972),3189,318946610,Instrumentation Engineering,MHT-CET,AI to AI,AI
+1013.0,80820 (41.7486972),6270,627019110,Civil Engineering,MHT-CET,AI to AI,AI
+1014.0,81416 (40.1592803),5381,538124210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1015.0,81493 (39.9525146),5380,538024510,Computer Engineering,MHT-CET,AI to AI,AI
+1016.0,81747 (39.4861193),5124,512424610,Information Technology,MHT-CET,AI to AI,AI
+1017.0,81936 (38.3158243),2138,213824210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1018.0,81976 (38.3158243),6315,631529310,Electrical Engineering,MHT-CET,AI to AI,AI
+1019.0,82159 (38.2409019),2114,211419110,Civil Engineering,MHT-CET,AI to AI,AI
+1020.0,82527 (36.8261928),6808,680837210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1021.0,82555 (36.8261928),6317,631737210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1022.0,82651 (36.7987731),6839,683929310,Electrical Engineering,MHT-CET,AI to AI,AI
+1023.0,82679 (36.7976787),2129,212919110,Civil Engineering,MHT-CET,AI to AI,AI
+1024.0,82737 (36.7976787),4196,419624210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1025.0,82816 (36.2152983),6317,631729310,Electrical Engineering,MHT-CET,AI to AI,AI
+1026.0,82890 (36.1998499),5139,513950710,Chemical Engineering,MHT-CET,AI to AI,AI
+1027.0,83078 (35.6415304),6326,632624210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1028.0,83449 (34.5488309),6772,677237210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1029.0,83482 (34.4633689),2250,225019110,Civil Engineering,MHT-CET,AI to AI,AI
+1030.0,83591 (34.3312532),4135,413524610,Information Technology,MHT-CET,AI to AI,AI
+1031.0,83639 (34.0528096),2533,253319110,Civil Engineering,MHT-CET,AI to AI,AI
+1032.0,83866 (33.2795222),6250,625061210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1033.0,84002 (32.8632605),3465,346561210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1034.0,84081 (32.6882976),2135,213524210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1035.0,84090 (32.6882976),5173,517319110,Civil Engineering,MHT-CET,AI to AI,AI
+1036.0,84237 (32.0471506),6901,690124210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1037.0,84687 (31.1669829),6755,675519110,Civil Engineering,MHT-CET,AI to AI,AI
+1038.0,84915 (30.2190104),5331,533137210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1039.0,84981 (29.9393300),4144,414461210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1040.0,85201 (29.4872892),1114,111437210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1041.0,85605 (28.1826454),6466,646624210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1042.0,85654 (28.1674686),6269,626961210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1043.0,85705 (28.0907404),6184,618419110,Civil Engineering,MHT-CET,AI to AI,AI
+1044.0,85784 (28.0907404),3471,347129310,Electrical Engineering,MHT-CET,AI to AI,AI
+1045.0,85856 (28.0164041),4175,417524210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1046.0,85905 (27.8700190),6304,630424210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1047.0,86116 (26.5477440),3190,319061210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1048.0,86274 (26.1518015),2113,211319110,Civil Engineering,MHT-CET,AI to AI,AI
+1049.0,86288 (26.1518015),2533,253329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1050.0,86470 (25.1731725),4151,415119110,Civil Engineering,MHT-CET,AI to AI,AI
+1051.0,86555 (25.1347094),4145,414599510,Artificial Intelligence and Data Science,MHT-CET,AI to AI,AI
+1052.0,86556 (25.1347094),2141,214137210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1053.0,86606 (25.0443150),4179,417937010,"Electronics and Communication
+Engineering",MHT-CET,AI to AI,AI
+1054.0,86653 (25.0126497),6293,629329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1055.0,86720 (24.9745590),6307,630719110,Civil Engineering,MHT-CET,AI to AI,AI
+1056.0,86885 (24.7074636),4133,413324510,Computer Engineering,MHT-CET,AI to AI,AI
+1057.0,87071 (23.6497475),6214,621462410,Mechatronics Engineering,MHT-CET,AI to AI,AI
+1058.0,87100 (23.5047219),6250,625019110,Civil Engineering,MHT-CET,AI to AI,AI
+1059.0,87221 (23.1246308),3175,317519110,Civil Engineering,MHT-CET,AI to AI,AI
+1060.0,87225 (23.1246308),4613,461337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1061.0,87401 (22.4513080),6293,629337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1062.0,87478 (22.3397367),5171,517124510,Computer Engineering,MHT-CET,AI to AI,AI
+1063.0,87524 (22.0730987),6220,622019110,Civil Engineering,MHT-CET,AI to AI,AI
+1064.0,87543 (22.0508994),3200,320029310,Electrical Engineering,MHT-CET,AI to AI,AI
+1065.0,87696 (21.9131615),6649,664929310,Electrical Engineering,MHT-CET,AI to AI,AI
+1066.0,87732 (21.6081594),6268,626819110,Civil Engineering,MHT-CET,AI to AI,AI
+1067.0,87776 (21.6081594),5108,510846410,"Instrumentation and Control
+Engineering",MHT-CET,AI to AI,AI
+1068.0,87824 (21.4906113),4190,419024210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1069.0,87944 (20.7823333),6640,664037210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1070.0,87960 (20.7823333),4104,410437010,"Electronics and Communication
+Engineering",MHT-CET,AI to AI,AI
+1071.0,87961 (20.7823333),5103,510361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1072.0,88110 (20.0386881),6203,620319110,Civil Engineering,MHT-CET,AI to AI,AI
+1073.0,88159 (19.9043634),5331,533161210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1074.0,88170 (19.8181667),6643,664319110,Civil Engineering,MHT-CET,AI to AI,AI
+1075.0,88303 (19.4849646),2533,253399510,Artificial Intelligence and Data Science,MHT-CET,AI to AI,AI
+1076.0,88426 (19.3401310),6795,679524510,Computer Engineering,MHT-CET,AI to AI,AI
+1077.0,88562 (18.8856852),4163,416361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1078.0,88577 (18.4796096),6203,620361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1079.0,88696 (18.3983482),4104,410419110,Civil Engineering,MHT-CET,AI to AI,AI
+1080.0,88732 (18.3983482),6762,676229310,Electrical Engineering,MHT-CET,AI to AI,AI
+1081.0,88768 (18.1973808),3223,322329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1082.0,88878 (17.5639680),6766,676624510,Computer Engineering,MHT-CET,AI to AI,AI
+1083.0,89046 (16.9155059),6214,621461610,Mechanical Engineering Automobile,MHT-CET,AI to AI,AI
+1084.0,89319 (16.6127829),6138,613837210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1085.0,89330 (16.1126187),1107,110719110,Civil Engineering,MHT-CET,AI to AI,AI
+1086.0,89427 (15.7215545),6269,626919110,Civil Engineering,MHT-CET,AI to AI,AI
+1087.0,89443 (15.7215545),6307,630737210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1088.0,89472 (15.7020873),1120,112029310,Electrical Engineering,MHT-CET,AI to AI,AI
+1089.0,89531 (15.7002233),4144,414429310,Electrical Engineering,MHT-CET,AI to AI,AI
+1090.0,89584 (15.0472534),6803,680361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1091.0,89721 (14.7852363),5104,510419110,Civil Engineering,MHT-CET,AI to AI,AI
+1092.0,89734 (14.7852363),2136,213653410,Food Engineering and Technology,MHT-CET,AI to AI,AI
+1093.0,89735 (14.7852363),4118,411837210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1094.0,89750 (14.7852363),6839,683919110,Civil Engineering,MHT-CET,AI to AI,AI
+1095.0,89758 (14.7366570),5177,517737210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1096.0,89864 (14.5049629),4135,413529310,Electrical Engineering,MHT-CET,AI to AI,AI
+1097.0,89887 (14.4002701),5125,512550710,Chemical Engineering,MHT-CET,AI to AI,AI
+1098.0,89959 (14.2604149),5161,516129310,Electrical Engineering,MHT-CET,AI to AI,AI
+1099.0,89974 (14.2604149),6307,630760210,Automobile Engineering,MHT-CET,AI to AI,AI
+1100.0,90027 (13.5830691),3220,322024510,Computer Engineering,MHT-CET,AI to AI,AI
+1101.0,90052 (13.5830691),3216,321637210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1102.0,90165 (13.2928186),4144,414419110,Civil Engineering,MHT-CET,AI to AI,AI
+1103.0,90166 (13.2928186),6269,626946610,Instrumentation Engineering,MHT-CET,AI to AI,AI
+1104.0,90200 (13.2928186),6545,654529310,Electrical Engineering,MHT-CET,AI to AI,AI
+1105.0,90213 (13.2432005),2113,211337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1106.0,90246 (13.2432005),3503,350329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1107.0,90332 (12.4945045),6160,616019110,Civil Engineering,MHT-CET,AI to AI,AI
+1108.0,90381 (12.3706299),6139,613961220,Mechanical Engineering,MHT-CET,AI to AI,AI
+1109.0,90398 (12.3677962),1121,112161210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1110.0,90483 (12.1971807),5169,516924510,Computer Engineering,MHT-CET,AI to AI,AI
+1111.0,90569 (12.0860789),6786,678637210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1112.0,90589 (12.0256367),2116,211624210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1113.0,90676 (11.5078019),5161,516119110,Civil Engineering,MHT-CET,AI to AI,AI
+1114.0,90710 (11.3568440),3193,319337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1115.0,90772 (11.2581686),3216,321619110,Civil Engineering,MHT-CET,AI to AI,AI
+1116.0,90822 (11.1101601),4192,419224210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1117.0,90844 (10.9819734),6635,663537210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1118.0,90863 (10.9819734),5151,515137210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1119.0,90885 (10.7058476),4135,413561210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1120.0,90941 (10.4473963),5177,517799510,Artificial Intelligence and Data Science,MHT-CET,AI to AI,AI
+1121.0,91022 (10.3398176),5418,541819110,Civil Engineering,MHT-CET,AI to AI,AI
+1122.0,91025 (10.3398176),1127,112737210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1123.0,91059 (10.3100943),4145,414524610,Information Technology,MHT-CET,AI to AI,AI
+1124.0,91074 (10.3100943),6643,664329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1125.0,91077 (10.3100943),3223,322319110,Civil Engineering,MHT-CET,AI to AI,AI
+1126.0,91138 (9.9591292),6269,626937210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1127.0,91142 (9.9591292),1105,110561210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1128.0,91153 (9.9257885),4302,430224510,Computer Engineering,MHT-CET,AI to AI,AI
+1129.0,91225 (9.3962008),2136,213624510,Computer Engineering,MHT-CET,AI to AI,AI
+1130.0,91228 (9.3962008),1128,112819110,Civil Engineering,MHT-CET,AI to AI,AI
+1131.0,91240 (9.3962008),6220,622061210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1132.0,91242 (9.3962008),2252,225224210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1133.0,91444 (8.8526285),3193,319360610,Production Engineering,MHT-CET,AI to AI,AI
+1134.0,91472 (8.7224127),1114,111461210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1135.0,91497 (8.5640488),6156,615661210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1136.0,91547 (8.5473775),6298,629829310,Electrical Engineering,MHT-CET,AI to AI,AI
+1137.0,91612 (8.3227821),6223,622329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1138.0,91712 (7.6407734),5151,515129310,Electrical Engineering,MHT-CET,AI to AI,AI
+1139.0,91725 (7.6407734),6797,679719110,Civil Engineering,MHT-CET,AI to AI,AI
+1140.0,91736 (7.4199686),6305,630524210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1141.0,91756 (7.4199686),5109,510937210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1142.0,91800 (7.4109579),1119,111924610,Information Technology,MHT-CET,AI to AI,AI
+1143.0,91807 (7.3525636),2112,211229310,Electrical Engineering,MHT-CET,AI to AI,AI
+1144.0,91838 (7.1766096),6786,678660210,Automobile Engineering,MHT-CET,AI to AI,AI
+1145.0,91960 (6.7802082),5109,510929310,Electrical Engineering,MHT-CET,AI to AI,AI
+1146.0,91990 (6.7043346),4135,413537210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1147.0,91998 (6.7043346),6177,617761220,Mechanical Engineering,MHT-CET,AI to AI,AI
+1148.0,92058 (6.6310785),3220,322024610,Information Technology,MHT-CET,AI to AI,AI
+1149.0,92065 (6.6310785),5168,516824510,Computer Engineering,MHT-CET,AI to AI,AI
+1150.0,92118 (6.1821574),3135,313546610,Instrumentation Engineering,MHT-CET,AI to AI,AI
+1151.0,92125 (6.0772062),6275,627529310,Electrical Engineering,MHT-CET,AI to AI,AI
+1152.0,92133 (6.0772062),6283,628361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1153.0,92176 (6.0320035),4188,418824210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1154.0,92192 (6.0320035),4302,430219110,Civil Engineering,MHT-CET,AI to AI,AI
+1155.0,92197 (6.0320035),6293,629361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1156.0,92221 (5.8328411),1127,112719110,Civil Engineering,MHT-CET,AI to AI,AI
+1157.0,92231 (5.6925996),5160,516091510,Structural Engineering,MHT-CET,AI to AI,AI
+1158.0,92233 (5.6925996),6766,676619110,Civil Engineering,MHT-CET,AI to AI,AI
+1159.0,92313 (5.4528573),1182,118224210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1160.0,92317 (5.3918799),6782,678224210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1161.0,92323 (5.3918799),6281,628161210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1162.0,92383 (5.3381683),2533,253361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1163.0,92385 (5.3197848),6938,693824210F,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1164.0,92392 (5.0567852),6803,680329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1165.0,92449 (4.7812061),4163,416329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1166.0,92455 (4.7812061),2131,213124210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1167.0,92460 (4.7812061),1107,110737210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1168.0,92497 (4.7046678),5139,513919110,Civil Engineering,MHT-CET,AI to AI,AI
+1169.0,92516 (4.6662729),3154,315460210,Automobile Engineering,MHT-CET,AI to AI,AI
+1170.0,92526 (4.6662729),6298,629861210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1171.0,92527 (4.6662729),6145,614561210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1172.0,92547 (4.5799038),6179,617919110,Civil Engineering,MHT-CET,AI to AI,AI
+1173.0,92548 (4.5799038),6797,679729310,Electrical Engineering,MHT-CET,AI to AI,AI
+1174.0,92552 (4.5799038),1117,111799510,Artificial Intelligence and Data Science,MHT-CET,AI to AI,AI
+1175.0,92559 (4.5799038),4302,430261210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1176.0,92560 (4.5799038),4118,411819110,Civil Engineering,MHT-CET,AI to AI,AI
+1177.0,92562 (4.5799038),4147,414719110,Civil Engineering,MHT-CET,AI to AI,AI
+1178.0,92569 (4.5540797),6797,679737210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1179.0,92619 (4.4483836),5124,512419110,Civil Engineering,MHT-CET,AI to AI,AI
+1180.0,92667 (4.1871716),2113,211329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1181.0,92693 (3.8879217),6182,618237210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1182.0,92695 (3.8879217),2135,213561210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1183.0,92706 (3.7988344),6756,675624210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1184.0,92718 (3.7988344),6780,678029310,Electrical Engineering,MHT-CET,AI to AI,AI
+1185.0,92768 (3.7386623),6545,654537210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1186.0,92776 (3.7386623),5139,513946410,"Instrumentation and Control
+Engineering",MHT-CET,AI to AI,AI
+1187.0,92842 (3.5198785),4190,419029310,Electrical Engineering,MHT-CET,AI to AI,AI
+1188.0,92846 (3.5198785),4147,414729310,Electrical Engineering,MHT-CET,AI to AI,AI
+1189.0,92882 (3.2696639),2135,213519110,Civil Engineering,MHT-CET,AI to AI,AI
+1190.0,92913 (2.9886432),2138,213819110,Civil Engineering,MHT-CET,AI to AI,AI
+1191.0,92918 (2.9886432),3351,335124510,Computer Engineering,MHT-CET,AI to AI,AI
+1192.0,92939 (2.9345934),4118,411829310,Electrical Engineering,MHT-CET,AI to AI,AI
+1193.0,92961 (2.9127645),6288,628861210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1194.0,92974 (2.9011491),4151,415129310,Electrical Engineering,MHT-CET,AI to AI,AI
+1195.0,92996 (2.8324288),6269,626929310,Electrical Engineering,MHT-CET,AI to AI,AI
+1196.0,93003 (2.8324288),3193,319350710,Chemical Engineering,MHT-CET,AI to AI,AI
+1197.0,93071 (2.3740591),2136,213629310,Electrical Engineering,MHT-CET,AI to AI,AI
+1198.0,93137 (2.1758618),6223,622337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1199.0,93148 (2.1709634),4188,418850310,Food Technology,MHT-CET,AI to AI,AI
+1200.0,93169 (2.0998482),6185,618529310,Electrical Engineering,MHT-CET,AI to AI,AI
+1201.0,93215 (1.8025147),2533,253337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1202.0,93223 (1.8025147),6643,664361210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1203.0,93225 (1.6869041),4613,461329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1204.0,93227 (1.6869041),4143,414329310,Electrical Engineering,MHT-CET,AI to AI,AI
+1205.0,93284 (1.6022938),6303,630319110,Civil Engineering,MHT-CET,AI to AI,AI
+1206.0,93301 (1.4771672),3200,320037210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1207.0,93321 (1.3648772),5160,516061210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1208.0,93326 (1.3452915),4145,414519110,Civil Engineering,MHT-CET,AI to AI,AI
+1209.0,93340 (1.3199617),4613,461319110,Civil Engineering,MHT-CET,AI to AI,AI
+1210.0,93351 (1.2808349),5173,517337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1211.0,93355 (1.2481025),6222,622261210,Mechanical Engineering,MHT-CET,AI to AI,AI
+1212.0,93362 (1.2231096),2114,211437210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1213.0,93406 (1.0349605),1182,118219110,Civil Engineering,MHT-CET,AI to AI,AI
+1214.0,93418 (0.9367487),6324,632437210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1215.0,93422 (0.9209296),4143,414324510,Computer Engineering,MHT-CET,AI to AI,AI
+1216.0,93462 (0.6880544),6269,626937610,Electronics Engineering,MHT-CET,AI to AI,AI
+1217.0,93524 (0.4664769),6781,678124210,Computer Science and Engineering,MHT-CET,AI to AI,AI
+1218.0,93565 (0.2200310),6275,627519110,Civil Engineering,MHT-CET,AI to AI,AI
+1219.0,93587 (0.1253595),6803,680337210,"Electronics and Telecommunication
+Engg",MHT-CET,AI to AI,AI
+1220.0,93592 (0.1102442),5331,533119110,Civil Engineering,MHT-CET,AI to AI,AI
+1221.0,93594 (0.0935319),1265,126519110,Civil Engineering,MHT-CET,AI to AI,AI

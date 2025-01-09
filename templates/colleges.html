@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<!-- Coding by CodingNepal || www.codingnepalweb.com -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Boxicons CSS -->
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='userDashboard.css') }}">
+    <script src="https://kit.fontawesome.com/3494b96017.js" crossorigin="anonymous"></script>
+
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="logo_item">
+        <i class="bx bx-menu" id="sidebarOpen"></i>
+        <img src="images/logo.png" alt=""></i>DreamCollege
+      </div>
+
+      <!--<div class="search_bar">
+        <input type="text" placeholder="Search" />
+      </div>-->
+
+      <div class="navbar_content">
+        <i class="bi bi-grid"></i>
+        <i class='bx bx-sun' id="darkLight"></i>
+        <i class='bx bx-bell' ></i>
+        <img src="images/profile.jpg" alt="" class="profile" />
+      </div>
+    </nav>
+
+    <!-- sidebar -->
+    <nav class="sidebar">
+      <div class="menu_content">
+        <ul class="menu_items">
+          <div class="menu_title menu_dahsboard"></div>
+          <!-- duplicate or remove this li tag if you want to add or remove navlink with submenu -->
+          <!-- start -->
+
+          <!-- duplicate this li tag if you want to add or remove  navlink with submenu -->
+          <!-- start -->
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="bx bx-grid-alt"></i>
+              </span>
+              <span class="navlink">Colleges </span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+              <a href="colleges.html" class="nav_link sublink">Add colleges</a>
+            </ul>
+          </li>
+          <!-- end -->
+
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="bx bx-grid-alt"></i>
+              </span>
+              <span class="navlink">Courses cut-off</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+              <a href="courses.html" class="nav_link sublink">Add courses</a>
+            </ul>
+          </li>
+          <!--end-->
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="fa-solid fa-user"></i>
+              </span>
+              <span class="navlink">About</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+                <a href="aboutUs.html" class="nav_link sublink">Learn more about us</a>
+              </ul>
+          </li>
+          <!-- end -->
+
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="fa-solid fa-phone"></i>
+              </span>
+              <span class="navlink">Contact</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+                <a href="contactUs.html" class="nav_link sublink">Connect with us</a>
+              </ul>
+          </li>
+          <!-- end -->
+        </ul>
+
+
+        <!-- Sidebar Open / Close -->
+        <div class="bottom_content">
+          <div class="bottom collapse_sidebar">
+            <span>Log Out</span>
+            <i class='bx bx-log-out'></i>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <main class="feedP">
+      <div class="cardP">
+          <div class="card-titleP">
+              College Recommendation
+          </div>
+          <div class="card-contentP">
+              <p>
+                  <center>
+                      <form id="addColleges" action="/addColleges" method="post" onsubmit="validateAndSave()">
+                          <div class="clgR3">
+                              <div class="predict">
+                                  <h2>Add colleges</h2>
+                              </div>
+                              <div class="predict1">
+                                <label> Institute Code : </label>
+                                <input type="text" id="instituteCode" name="instituteCode" placeholder="Enter Institute Code" required /><br />
+                                <label> Institute Name : </label>
+                                <input type="text" id="instituteName" name="instituteName" placeholder="Enter Institute Name" required /><br />
+                                <label> Status : </label>
+                                <input type="text" id="instituteStatus" name="instituteStatus" placeholder="Enter Institute Status" required /><br />
+                                <label> Total Intake : </label>
+                                <input type="number" id="totalIntake" name="totalIntake" placeholder="Enter Intake" required /><br />
+                            </div>
+                          </div>
+
+                          <div>
+                              <div>
+                                  < <button type="submit" id="submit" class="button">Save</button><br>
+                              </div>
+                          </div>
+                      </form>
+                  </center>
+              </p>
+          </div>
+      </div>
+  </main>
+
+    <!-- JavaScript -->
+    <script src="common.js"></script>
+    <script src="colleges.js"></script>
+  </body>
+</html>

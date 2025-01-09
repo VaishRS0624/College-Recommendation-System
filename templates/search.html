@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<!-- Coding by CodingNepal || www.codingnepalweb.com -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Boxicons CSS -->
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+    <title>Dashboard</title>
+    <script src="https://kit.fontawesome.com/3494b96017.js" crossorigin="anonymous"></script>
+   <link rel="stylesheet" href="{{ url_for('static', filename='userDashboard.css') }}">
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="logo_item">
+        <i class="bx bx-menu" id="sidebarOpen"></i>
+        <img src="images/logo.png" alt=""></i>DreamCollege
+      </div>
+
+      <!--<div class="search_bar">
+        <input type="text" placeholder="Search" />
+      </div>-->
+
+      <div class="navbar_content">
+        <i class="bi bi-grid"></i>
+        <i class='bx bx-sun' id="darkLight"></i>
+        <i class='bx bx-bell' ></i>
+        <img src="images/profile.jpg" alt="" class="profile" />
+      </div>
+    </nav>
+
+    <!-- sidebar -->
+    <nav class="sidebar">
+      <div class="menu_content">
+        <ul class="menu_items">
+          <div class="menu_title menu_dahsboard"></div>
+
+          <!-- duplicate this li tag if you want to add or remove  navlink with submenu -->
+          <!-- start -->
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="bx bx-home-alt"></i>
+              </span>
+              <span class="navlink" ><a href="home.html">Home</a></span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+          </li>
+          <!-- end -->
+
+          <!-- duplicate this li tag if you want to add or remove  navlink with submenu -->
+          <!-- start -->
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="fa-solid fa-magnifying-glass"></i>
+              </span>
+              <span class="navlink">Search </span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+              <a href="search.html" class="nav_link sublink">after CET exam</a>
+              <a href="search.html" class="nav_link sublink">after JEE</a>
+            </ul>
+          </li>
+          <!-- end -->
+
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="fa-solid fa-wand-magic-sparkles"></i>
+              </span>
+              <span class="navlink">College Predictor</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+              <a href="clgPredictor.html" class="nav_link sublink">based on CET</a>
+            </ul>
+          </li>
+          <!-- end -->
+
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="fa-solid fa-user"></i>
+              </span>
+              <span class="navlink">About</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+                <a href="aboutUs.html" class="nav_link sublink">Learn more about us</a>
+              </ul>
+          </li>
+          <!-- end -->
+
+          <li class="item">
+            <div href="#" class="nav_link submenu_item">
+              <span class="navlink_icon">
+                <i class="fa-solid fa-phone"></i>
+              </span>
+              <span class="navlink">Contact</span>
+              <i class="bx bx-chevron-right arrow-left"></i>
+            </div>
+
+            <ul class="menu_items submenu">
+                <a href="contactUs.html" class="nav_link sublink">Connect with us</a>
+              </ul>
+          </li>
+          <!--end-->
+        </ul>
+
+
+        <!-- Sidebar Open / Close -->
+        <div class="bottom_content">
+          <div class="bottom collapse_sidebar">
+            <span>Log Out</span>
+            <i class='bx bx-log-out'></i>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <main class="feedS">
+      <div class="cardS">
+          <div class="card-titleS">
+              College Recommendation
+          </div>
+          <div class="card-contentS">
+              <p>
+                  <form id="collegeForm">
+                      <div class="clgR1">
+                          <div class="comb">
+                              <h2 class="comb1">Combinations</h2>
+                          </div>
+                          <div class="comb">
+                              <input type="radio" name="combination" value="merit_and_cutoff" class="radios">
+                              <label> merit and cut-off both</label><br>
+                              <input type="radio" name="combination" value="fee_and_location" class="radios">
+                              <label> fee and location</label>
+                          </div>
+                      </div>
+
+                      <div class="clgR2">
+                          <div class="searchBy">
+                              <h2 class="searchBy1">Search By</h2>
+                          </div>
+                          <div class="searchBy">
+                              <div class="checkboxes">
+                                  <input type="checkbox" id="cb1" name="criteria" value="Result">
+                                  <label for="cb1">Result</label><br>
+                                  <input type="checkbox" id="cb2" name="criteria" value="Merit">
+                                  <label for="cb2">Merit</label><br>
+                                  <input type="checkbox" id="cb3" name="criteria" value="Aided">
+                                  <label for="cb3">Aided</label><br>
+                                  <input type="checkbox" id="cb4" name="criteria" value="Un-Aided">
+                                  <label for="cb4">Un-Aided</label><br>
+                                  <label for="depts">Departments</label>
+                                  <select name="department" id="depts">
+                                      <option value="ComputerTechnology">Computer Technology</option>
+                                      <option value="InformationTechnology">Information Technology</option>
+                                      <option value="CivilEngineering">Civil Engineering</option>
+                                      <option value="MechanicalEngineering">Mechanical Engineering</option>
+                                  </select>
+                              </div>
+                          </div>
+                      </div>
+
+                      <div>
+                          <center>
+                              <div>
+                                  <button type="button" onclick="searchColleges()">Search</button>
+                              </div>
+                              <div>
+                                <button type="button" id="fetchRecommendationsBtn" onclick="getRecommendations()">See Recommendations</button>
+                            </div>
+                          </center>
+                      </div>
+                  </form>
+
+                  <!-- Display search results here -->
+                  <div id="recommendationsContainer" class="recommendationsContainer"></div>
+
+              </p>
+          </div>
+      </div>
+  </main>
+
+
+
+    <!-- JavaScript -->
+    <script src="common.js"></script>
+    <script src="search.js"></script>
+  </body>
+</html>
